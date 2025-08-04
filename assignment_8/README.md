@@ -58,7 +58,7 @@ source venv/bin/activate
 
 2. **Run the Application**:
 ```bash
-streamlit run assignment_7.py
+streamlit run assignment_8.py
 ```
 
 3. **Using the Search Engine**:
@@ -72,7 +72,7 @@ streamlit run assignment_7.py
 .
 ├── .env                # Environment variables configuration
 ├── envPkg.txt         # Python package requirements file
-└── assignment_7.py    # Main application file with search implementation
+└── assignment_8.py    # Main application file with search implementation
 ```
 
 ## Security Note
