@@ -1,0 +1,2332 @@
+[
+  {
+    "id": "prod_0001",
+    "title": "Tshirt chạy bộ AirRush Gradient",
+    "category": "Áo thun",
+    "price": 199000.0,
+    "original_price": 199000.0,
+    "discount_percent": 0,
+    "short_description": "Tshirt chạy bộ AirRush Gradient",
+    "description": "Sản phẩm Tshirt chạy bộ AirRush Gradient thuộc danh mục Áo thun với giá 199,000đ"
+  },
+  {
+    "id": "prod_0002",
+    "title": "Combo 3 Quần Lót Nam Trunk Excool",
+    "category": "Quần",
+    "price": 289000.0,
+    "original_price": 329000.0,
+    "discount_percent": 12,
+    "short_description": "Combo 3 Quần Lót Nam Trunk Excool",
+    "description": "Sản phẩm Combo 3 Quần Lót Nam Trunk Excool thuộc danh mục Quần với giá 289,000đ"
+  },
+  {
+    "id": "prod_0003",
+    "title": "Shorts thể thao nam 6 inch đai siêu co giãn",
+    "category": "Quần",
+    "price": 239000.0,
+    "original_price": 239000.0,
+    "discount_percent": 0,
+    "short_description": "Shorts thể thao nam 6 inch đai siêu co giãn",
+    "description": "Sản phẩm Shorts thể thao nam 6 inch đai siêu co giãn thuộc danh mục Quần với giá 239,000đ"
+  },
+  {
+    "id": "prod_0004",
+    "title": "Quần Dài Nam Kaki Excool",
+    "category": "Quần",
+    "price": 419000.0,
+    "original_price": 499000.0,
+    "discount_percent": 16,
+    "short_description": "Quần Dài Nam Kaki Excool",
+    "description": "Sản phẩm Quần Dài Nam Kaki Excool thuộc danh mục Quần với giá 419,000đ"
+  },
+  {
+    "id": "prod_0005",
+    "title": "Áo ba lỗ nam mặc trong thoáng khí nhanh khô Excool",
+    "category": "Khác",
+    "price": 99000.0,
+    "original_price": 99000.0,
+    "discount_percent": 0,
+    "short_description": "Áo ba lỗ nam mặc trong thoáng khí nhanh khô Excool",
+    "description": "Sản phẩm Áo ba lỗ nam mặc trong thoáng khí nhanh khô Excool thuộc danh mục Khác với giá 99,000đ"
+  },
+  {
+    "id": "prod_0006",
+    "title": "Áo Thun Gym Cotton Oversized Comfort Washed",
+    "category": "Áo thun",
+    "price": 299000.0,
+    "original_price": 299000.0,
+    "discount_percent": 0,
+    "short_description": "Áo Thun Gym Cotton Oversized Comfort Washed",
+    "description": "Sản phẩm Áo Thun Gym Cotton Oversized Comfort Washed thuộc danh mục Áo thun với giá 299,000đ"
+  },
+  {
+    "id": "prod_0007",
+    "title": "Áo thun chạy bộ \"Việt Nam tiến bước\"",
+    "category": "Áo thun",
+    "price": 239000.0,
+    "original_price": 239000.0,
+    "discount_percent": 0,
+    "short_description": "Áo thun chạy bộ \"Việt Nam tiến bước\"",
+    "description": "Sản phẩm Áo thun chạy bộ \"Việt Nam tiến bước\" thuộc danh mục Áo thun với giá 239,000đ"
+  },
+  {
+    "id": "prod_0008",
+    "title": "Áo Thun Nam Viet Devils - Bật Như Man",
+    "category": "Áo thun",
+    "price": 329000.0,
+    "original_price": 389000.0,
+    "discount_percent": 15,
+    "short_description": "Áo Thun Nam Viet Devils - Bật Như Man",
+    "description": "Sản phẩm Áo Thun Nam Viet Devils - Bật Như Man thuộc danh mục Áo thun với giá 329,000đ"
+  },
+  {
+    "id": "prod_0009",
+    "title": "Áo Thun Nam Viet Devils - Ăn Mày Quá Khứ",
+    "category": "Áo thun",
+    "price": 329000.0,
+    "original_price": 389000.0,
+    "discount_percent": 15,
+    "short_description": "Áo Thun Nam Viet Devils - Ăn Mày Quá Khứ",
+    "description": "Sản phẩm Áo Thun Nam Viet Devils - Ăn Mày Quá Khứ thuộc danh mục Áo thun với giá 329,000đ"
+  },
+  {
+    "id": "prod_0010",
+    "title": "Áo Thun Nam Viet Devils - Mùa Sau Vô Địch",
+    "category": "Áo thun",
+    "price": 329000.0,
+    "original_price": 389000.0,
+    "discount_percent": 15,
+    "short_description": "Áo Thun Nam Viet Devils - Mùa Sau Vô Địch",
+    "description": "Sản phẩm Áo Thun Nam Viet Devils - Mùa Sau Vô Địch thuộc danh mục Áo thun với giá 329,000đ"
+  },
+  {
+    "id": "prod_0011",
+    "title": "Áo Thun Nam Viet Devils - Đáy Xã Hội",
+    "category": "Áo thun",
+    "price": 329000.0,
+    "original_price": 389000.0,
+    "discount_percent": 15,
+    "short_description": "Áo Thun Nam Viet Devils - Đáy Xã Hội",
+    "description": "Sản phẩm Áo Thun Nam Viet Devils - Đáy Xã Hội thuộc danh mục Áo thun với giá 329,000đ"
+  },
+  {
+    "id": "prod_0012",
+    "title": "Áo Thun Nam Viet Devils - Vào Hang",
+    "category": "Áo thun",
+    "price": 329000.0,
+    "original_price": 389000.0,
+    "discount_percent": 15,
+    "short_description": "Áo Thun Nam Viet Devils - Vào Hang",
+    "description": "Sản phẩm Áo Thun Nam Viet Devils - Vào Hang thuộc danh mục Áo thun với giá 329,000đ"
+  },
+  {
+    "id": "prod_0013",
+    "title": "Áo Thun Nam Viet Devils - Đoàn Xiếc Thành Manchester",
+    "category": "Áo thun",
+    "price": 329000.0,
+    "original_price": 389000.0,
+    "discount_percent": 15,
+    "short_description": "Áo Thun Nam Viet Devils - Đoàn Xiếc Thành Manchester",
+    "description": "Sản phẩm Áo Thun Nam Viet Devils - Đoàn Xiếc Thành Manchester thuộc danh mục Áo thun với giá 329,000đ"
+  },
+  {
+    "id": "prod_0014",
+    "title": "Tshirt chạy bộ nam Graphic Energy",
+    "category": "Áo thun",
+    "price": 219000.0,
+    "original_price": 219000.0,
+    "discount_percent": 0,
+    "short_description": "Tshirt chạy bộ nam Graphic Energy",
+    "description": "Sản phẩm Tshirt chạy bộ nam Graphic Energy thuộc danh mục Áo thun với giá 219,000đ"
+  },
+  {
+    "id": "prod_0015",
+    "title": "Combo 3 Quần Lót Nam Trunk AirMax Mesh",
+    "category": "Quần",
+    "price": 299000.0,
+    "original_price": 299000.0,
+    "discount_percent": 0,
+    "short_description": "Combo 3 Quần Lót Nam Trunk AirMax Mesh",
+    "description": "Sản phẩm Combo 3 Quần Lót Nam Trunk AirMax Mesh thuộc danh mục Quần với giá 299,000đ"
+  },
+  {
+    "id": "prod_0016",
+    "title": "Combo 2 Quần Lót Nam Trunk Active Mesh",
+    "category": "Quần",
+    "price": 198000.0,
+    "original_price": 198000.0,
+    "discount_percent": 0,
+    "short_description": "Combo 2 Quần Lót Nam Trunk Active Mesh",
+    "description": "Sản phẩm Combo 2 Quần Lót Nam Trunk Active Mesh thuộc danh mục Quần với giá 198,000đ"
+  },
+  {
+    "id": "prod_0017",
+    "title": "Pack 3 Quần Lót Nam Trunk Modal Melange",
+    "category": "Quần",
+    "price": 299000.0,
+    "original_price": 299000.0,
+    "discount_percent": 0,
+    "short_description": "Pack 3 Quần Lót Nam Trunk Modal Melange",
+    "description": "Sản phẩm Pack 3 Quần Lót Nam Trunk Modal Melange thuộc danh mục Quần với giá 299,000đ"
+  },
+  {
+    "id": "prod_0018",
+    "title": "Quần Lót Nam Trunk AirMax Mesh",
+    "category": "Quần",
+    "price": 99000.0,
+    "original_price": 99000.0,
+    "discount_percent": 0,
+    "short_description": "Quần Lót Nam Trunk AirMax Mesh",
+    "description": "Sản phẩm Quần Lót Nam Trunk AirMax Mesh thuộc danh mục Quần với giá 99,000đ"
+  },
+  {
+    "id": "prod_0019",
+    "title": "Quần Lót Nam Trunk Active Mesh",
+    "category": "Quần",
+    "price": 99000.0,
+    "original_price": 99000.0,
+    "discount_percent": 0,
+    "short_description": "Quần Lót Nam Trunk Active Mesh",
+    "description": "Sản phẩm Quần Lót Nam Trunk Active Mesh thuộc danh mục Quần với giá 99,000đ"
+  },
+  {
+    "id": "prod_0020",
+    "title": "Áo Polo nam Premium Cotton Linen",
+    "category": "Áo polo",
+    "price": 399000.0,
+    "original_price": 399000.0,
+    "discount_percent": 0,
+    "short_description": "Áo Polo nam Premium Cotton Linen",
+    "description": "Sản phẩm Áo Polo nam Premium Cotton Linen thuộc danh mục Áo polo với giá 399,000đ"
+  },
+  {
+    "id": "prod_0021",
+    "title": "Áo sơ mi nam Casual kẻ sọc",
+    "category": "Áo sơ mi",
+    "price": 499000.0,
+    "original_price": 499000.0,
+    "discount_percent": 0,
+    "short_description": "Áo sơ mi nam Casual kẻ sọc",
+    "description": "Sản phẩm Áo sơ mi nam Casual kẻ sọc thuộc danh mục Áo sơ mi với giá 499,000đ"
+  },
+  {
+    "id": "prod_0022",
+    "title": "Áo thun nam Premium Cotton",
+    "category": "Áo thun",
+    "price": 259000.0,
+    "original_price": 259000.0,
+    "discount_percent": 0,
+    "short_description": "Áo thun nam Premium Cotton",
+    "description": "Sản phẩm Áo thun nam Premium Cotton thuộc danh mục Áo thun với giá 259,000đ"
+  },
+  {
+    "id": "prod_0023",
+    "title": "Quần dài Outdoor Function Pants",
+    "category": "Quần",
+    "price": 690000.0,
+    "original_price": 690000.0,
+    "discount_percent": 0,
+    "short_description": "Quần dài Outdoor Function Pants",
+    "description": "Sản phẩm Quần dài Outdoor Function Pants thuộc danh mục Quần với giá 690,000đ"
+  },
+  {
+    "id": "prod_0024",
+    "title": "Singlet chạy bộ AirRush Gradient",
+    "category": "Khác",
+    "price": 189000.0,
+    "original_price": 189000.0,
+    "discount_percent": 0,
+    "short_description": "Singlet chạy bộ AirRush Gradient",
+    "description": "Sản phẩm Singlet chạy bộ AirRush Gradient thuộc danh mục Khác với giá 189,000đ"
+  },
+  {
+    "id": "prod_0025",
+    "title": "Áo Polo nam Premium Aircool",
+    "category": "Áo polo",
+    "price": 399000.0,
+    "original_price": 399000.0,
+    "discount_percent": 0,
+    "short_description": "Áo Polo nam Premium Aircool",
+    "description": "Sản phẩm Áo Polo nam Premium Aircool thuộc danh mục Áo polo với giá 399,000đ"
+  },
+  {
+    "id": "prod_0026",
+    "title": "Áo Polo nam Premium Pique",
+    "category": "Áo polo",
+    "price": 399000.0,
+    "original_price": 399000.0,
+    "discount_percent": 0,
+    "short_description": "Áo Polo nam Premium Pique",
+    "description": "Sản phẩm Áo Polo nam Premium Pique thuộc danh mục Áo polo với giá 399,000đ"
+  },
+  {
+    "id": "prod_0027",
+    "title": "Áo Tshirt Training Seamless Body Mapping",
+    "category": "Áo thun",
+    "price": 349000.0,
+    "original_price": 349000.0,
+    "discount_percent": 0,
+    "short_description": "Áo Tshirt Training Seamless Body Mapping",
+    "description": "Sản phẩm Áo Tshirt Training Seamless Body Mapping thuộc danh mục Áo thun với giá 349,000đ"
+  },
+  {
+    "id": "prod_0028",
+    "title": "Áo thun Cotton 220gsm Regular Nghề chọn người, Người chọn tiền",
+    "category": "Áo thun",
+    "price": 179000.0,
+    "original_price": 199000.0,
+    "discount_percent": 10,
+    "short_description": "Áo thun Cotton 220gsm Regular Nghề chọn người, Người chọn tiền",
+    "description": "Sản phẩm Áo thun Cotton 220gsm Regular Nghề chọn người, Người chọn tiền thuộc danh mục Áo thun với giá 179,000đ"
+  },
+  {
+    "id": "prod_0029",
+    "title": "Áo thun Cotton 220gsm Regular Chằm Zn",
+    "category": "Áo thun",
+    "price": 179000.0,
+    "original_price": 199000.0,
+    "discount_percent": 10,
+    "short_description": "Áo thun Cotton 220gsm Regular Chằm Zn",
+    "description": "Sản phẩm Áo thun Cotton 220gsm Regular Chằm Zn thuộc danh mục Áo thun với giá 179,000đ"
+  },
+  {
+    "id": "prod_0030",
+    "title": "Pack 3 Quần Cotton Briefs Tam giác Logo",
+    "category": "Quần",
+    "price": 239000.0,
+    "original_price": 299000.0,
+    "discount_percent": 20,
+    "short_description": "Pack 3 Quần Cotton Briefs Tam giác Logo",
+    "description": "Sản phẩm Pack 3 Quần Cotton Briefs Tam giác Logo thuộc danh mục Quần với giá 239,000đ"
+  },
+  {
+    "id": "prod_0031",
+    "title": "Short nam 6inch Pickleball Smash Shot",
+    "category": "Khác",
+    "price": 379000.0,
+    "original_price": 379000.0,
+    "discount_percent": 0,
+    "short_description": "Short nam 6inch Pickleball Smash Shot",
+    "description": "Sản phẩm Short nam 6inch Pickleball Smash Shot thuộc danh mục Khác với giá 379,000đ"
+  },
+  {
+    "id": "prod_0032",
+    "title": "Áo Polo nam Pickleball Baseline",
+    "category": "Áo polo",
+    "price": 379000.0,
+    "original_price": 379000.0,
+    "discount_percent": 0,
+    "short_description": "Áo Polo nam Pickleball Baseline",
+    "description": "Sản phẩm Áo Polo nam Pickleball Baseline thuộc danh mục Áo polo với giá 379,000đ"
+  },
+  {
+    "id": "prod_0033",
+    "title": "Áo thun nam Pickleball Smash Shot",
+    "category": "Áo thun",
+    "price": 329000.0,
+    "original_price": 329000.0,
+    "discount_percent": 0,
+    "short_description": "Áo thun nam Pickleball Smash Shot",
+    "description": "Sản phẩm Áo thun nam Pickleball Smash Shot thuộc danh mục Áo thun với giá 329,000đ"
+  },
+  {
+    "id": "prod_0034",
+    "title": "Áo thun nam Pickleball Dink Shot",
+    "category": "Áo thun",
+    "price": 349000.0,
+    "original_price": 349000.0,
+    "discount_percent": 0,
+    "short_description": "Áo thun nam Pickleball Dink Shot",
+    "description": "Sản phẩm Áo thun nam Pickleball Dink Shot thuộc danh mục Áo thun với giá 349,000đ"
+  },
+  {
+    "id": "prod_0035",
+    "title": "Áo thun nam Pickleball Drive Shot",
+    "category": "Áo thun",
+    "price": 279000.0,
+    "original_price": 279000.0,
+    "discount_percent": 0,
+    "short_description": "Áo thun nam Pickleball Drive Shot",
+    "description": "Sản phẩm Áo thun nam Pickleball Drive Shot thuộc danh mục Áo thun với giá 279,000đ"
+  },
+  {
+    "id": "prod_0036",
+    "title": "Shorts thể thao nam 6inch túi zipped",
+    "category": "Quần",
+    "price": 269000.0,
+    "original_price": 269000.0,
+    "discount_percent": 0,
+    "short_description": "Shorts thể thao nam 6inch túi zipped",
+    "description": "Sản phẩm Shorts thể thao nam 6inch túi zipped thuộc danh mục Quần với giá 269,000đ"
+  },
+  {
+    "id": "prod_0037",
+    "title": "Áo thun Cotton 220gsm Regular Possitive Vibes only",
+    "category": "Áo thun",
+    "price": 179000.0,
+    "original_price": 199000.0,
+    "discount_percent": 10,
+    "short_description": "Áo thun Cotton 220gsm Regular Possitive Vibes only",
+    "description": "Sản phẩm Áo thun Cotton 220gsm Regular Possitive Vibes only thuộc danh mục Áo thun với giá 179,000đ"
+  },
+  {
+    "id": "prod_0038",
+    "title": "Áo thun Cotton 220gsm Regular Coolgraphic Daisy",
+    "category": "Áo thun",
+    "price": 179000.0,
+    "original_price": 199000.0,
+    "discount_percent": 10,
+    "short_description": "Áo thun Cotton 220gsm Regular Coolgraphic Daisy",
+    "description": "Sản phẩm Áo thun Cotton 220gsm Regular Coolgraphic Daisy thuộc danh mục Áo thun với giá 179,000đ"
+  },
+  {
+    "id": "prod_0039",
+    "title": "Shorts thể thao nam Promax FlexLine Active",
+    "category": "Quần",
+    "price": 219000.0,
+    "original_price": 219000.0,
+    "discount_percent": 0,
+    "short_description": "Shorts thể thao nam Promax FlexLine Active",
+    "description": "Sản phẩm Shorts thể thao nam Promax FlexLine Active thuộc danh mục Quần với giá 219,000đ"
+  },
+  {
+    "id": "prod_0040",
+    "title": "Áo thun Cotton 220gsm Regular Possitive All The Way",
+    "category": "Áo thun",
+    "price": 179000.0,
+    "original_price": 199000.0,
+    "discount_percent": 10,
+    "short_description": "Áo thun Cotton 220gsm Regular Possitive All The Way",
+    "description": "Sản phẩm Áo thun Cotton 220gsm Regular Possitive All The Way thuộc danh mục Áo thun với giá 179,000đ"
+  },
+  {
+    "id": "prod_0041",
+    "title": "Áo thun Cotton 220gsm Regular Have A Nice Daisy",
+    "category": "Áo thun",
+    "price": 179000.0,
+    "original_price": 199000.0,
+    "discount_percent": 10,
+    "short_description": "Áo thun Cotton 220gsm Regular Have A Nice Daisy",
+    "description": "Sản phẩm Áo thun Cotton 220gsm Regular Have A Nice Daisy thuộc danh mục Áo thun với giá 179,000đ"
+  },
+  {
+    "id": "prod_0042",
+    "title": "Polo thể thao nam Promax Sideflow",
+    "category": "Áo polo",
+    "price": 249000.0,
+    "original_price": 249000.0,
+    "discount_percent": 0,
+    "short_description": "Polo thể thao nam Promax Sideflow",
+    "description": "Sản phẩm Polo thể thao nam Promax Sideflow thuộc danh mục Áo polo với giá 249,000đ"
+  },
+  {
+    "id": "prod_0043",
+    "title": "Áo thun Cotton 220gsm Regular Disney Stitch That's Me",
+    "category": "Áo thun",
+    "price": 219000.0,
+    "original_price": 249000.0,
+    "discount_percent": 12,
+    "short_description": "Áo thun Cotton 220gsm Regular Disney Stitch That's Me",
+    "description": "Sản phẩm Áo thun Cotton 220gsm Regular Disney Stitch That's Me thuộc danh mục Áo thun với giá 219,000đ"
+  },
+  {
+    "id": "prod_0044",
+    "title": "Áo thun Cotton 220gsm Regular Disney Stitch Summer 1",
+    "category": "Áo thun",
+    "price": 269000.0,
+    "original_price": 299000.0,
+    "discount_percent": 10,
+    "short_description": "Áo thun Cotton 220gsm Regular Disney Stitch Summer 1",
+    "description": "Sản phẩm Áo thun Cotton 220gsm Regular Disney Stitch Summer 1 thuộc danh mục Áo thun với giá 269,000đ"
+  },
+  {
+    "id": "prod_0045",
+    "title": "Áo thun Cotton 220gsm Regular Disney Stitch Fun In The Sun",
+    "category": "Áo thun",
+    "price": 219000.0,
+    "original_price": 249000.0,
+    "discount_percent": 12,
+    "short_description": "Áo thun Cotton 220gsm Regular Disney Stitch Fun In The Sun",
+    "description": "Sản phẩm Áo thun Cotton 220gsm Regular Disney Stitch Fun In The Sun thuộc danh mục Áo thun với giá 219,000đ"
+  },
+  {
+    "id": "prod_0046",
+    "title": "Áo thun Cotton Compact Hoa Cúc",
+    "category": "Áo thun",
+    "price": 249000.0,
+    "original_price": 249000.0,
+    "discount_percent": 0,
+    "short_description": "Áo thun Cotton Compact Hoa Cúc",
+    "description": "Sản phẩm Áo thun Cotton Compact Hoa Cúc thuộc danh mục Áo thun với giá 249,000đ"
+  },
+  {
+    "id": "prod_0047",
+    "title": "Áo thun Cotton Compact Hoa Cúc Mini",
+    "category": "Áo thun",
+    "price": 249000.0,
+    "original_price": 249000.0,
+    "discount_percent": 0,
+    "short_description": "Áo thun Cotton Compact Hoa Cúc Mini",
+    "description": "Sản phẩm Áo thun Cotton Compact Hoa Cúc Mini thuộc danh mục Áo thun với giá 249,000đ"
+  },
+  {
+    "id": "prod_0048",
+    "title": "T-shirt thể thao nam FlexLine Active",
+    "category": "Áo thun",
+    "price": 179000.0,
+    "original_price": 199000.0,
+    "discount_percent": 10,
+    "short_description": "T-shirt thể thao nam FlexLine Active",
+    "description": "Sản phẩm T-shirt thể thao nam FlexLine Active thuộc danh mục Áo thun với giá 179,000đ"
+  },
+  {
+    "id": "prod_0049",
+    "title": "Pack 3 Shorts mặc nhà Coolmate Basics",
+    "category": "Quần",
+    "price": 219000.0,
+    "original_price": 249000.0,
+    "discount_percent": 12,
+    "short_description": "Pack 3 Shorts mặc nhà Coolmate Basics",
+    "description": "Sản phẩm Pack 3 Shorts mặc nhà Coolmate Basics thuộc danh mục Quần với giá 219,000đ"
+  },
+  {
+    "id": "prod_0050",
+    "title": "Áo Tanktop Nam Mặc Trong Antismell",
+    "category": "Khác",
+    "price": 89000.0,
+    "original_price": 99000.0,
+    "discount_percent": 10,
+    "short_description": "Áo Tanktop Nam Mặc Trong Antismell",
+    "description": "Sản phẩm Áo Tanktop Nam Mặc Trong Antismell thuộc danh mục Khác với giá 89,000đ"
+  },
+  {
+    "id": "prod_0051",
+    "title": "T-shirt thể thao nam Promax Sideflow V-neck",
+    "category": "Áo thun",
+    "price": 199000.0,
+    "original_price": 219000.0,
+    "discount_percent": 9,
+    "short_description": "T-shirt thể thao nam Promax Sideflow V-neck",
+    "description": "Sản phẩm T-shirt thể thao nam Promax Sideflow V-neck thuộc danh mục Áo thun với giá 199,000đ"
+  },
+  {
+    "id": "prod_0052",
+    "title": "T-shirt thể thao nam Promax Sideflow",
+    "category": "Áo thun",
+    "price": 199000.0,
+    "original_price": 219000.0,
+    "discount_percent": 9,
+    "short_description": "T-shirt thể thao nam Promax Sideflow",
+    "description": "Sản phẩm T-shirt thể thao nam Promax Sideflow thuộc danh mục Áo thun với giá 199,000đ"
+  },
+  {
+    "id": "prod_0053",
+    "title": "T-shirt thể thao nam FlexLine Active V-neck",
+    "category": "Áo thun",
+    "price": 179000.0,
+    "original_price": 199000.0,
+    "discount_percent": 10,
+    "short_description": "T-shirt thể thao nam FlexLine Active V-neck",
+    "description": "Sản phẩm T-shirt thể thao nam FlexLine Active V-neck thuộc danh mục Áo thun với giá 179,000đ"
+  },
+  {
+    "id": "prod_0054",
+    "title": "Áo Polo thể thao Graphene",
+    "category": "Áo polo",
+    "price": 279000.0,
+    "original_price": 279000.0,
+    "discount_percent": 0,
+    "short_description": "Áo Polo thể thao Graphene",
+    "description": "Sản phẩm Áo Polo thể thao Graphene thuộc danh mục Áo polo với giá 279,000đ"
+  },
+  {
+    "id": "prod_0055",
+    "title": "Quần bơi AquaShort 5 inch",
+    "category": "Quần",
+    "price": 179000.0,
+    "original_price": 199000.0,
+    "discount_percent": 10,
+    "short_description": "Quần bơi AquaShort 5 inch",
+    "description": "Sản phẩm Quần bơi AquaShort 5 inch thuộc danh mục Quần với giá 179,000đ"
+  },
+  {
+    "id": "prod_0056",
+    "title": "Áo thun nam mặc trong thoáng khí nhanh khô Excool",
+    "category": "Áo thun",
+    "price": 129000.0,
+    "original_price": 129000.0,
+    "discount_percent": 0,
+    "short_description": "Áo thun nam mặc trong thoáng khí nhanh khô Excool",
+    "description": "Sản phẩm Áo thun nam mặc trong thoáng khí nhanh khô Excool thuộc danh mục Áo thun với giá 129,000đ"
+  },
+  {
+    "id": "prod_0057",
+    "title": "Áo thun Cotton 220gsm Fit Stitch Neon",
+    "category": "Áo thun",
+    "price": 249000.0,
+    "original_price": 249000.0,
+    "discount_percent": 0,
+    "short_description": "Áo thun Cotton 220gsm Fit Stitch Neon",
+    "description": "Sản phẩm Áo thun Cotton 220gsm Fit Stitch Neon thuộc danh mục Áo thun với giá 249,000đ"
+  },
+  {
+    "id": "prod_0058",
+    "title": "Áo thun Cotton 220gsm Fit Stitch",
+    "category": "Áo thun",
+    "price": 249000.0,
+    "original_price": 249000.0,
+    "discount_percent": 0,
+    "short_description": "Áo thun Cotton 220gsm Fit Stitch",
+    "description": "Sản phẩm Áo thun Cotton 220gsm Fit Stitch thuộc danh mục Áo thun với giá 249,000đ"
+  },
+  {
+    "id": "prod_0059",
+    "title": "Áo Singlet chạy bộ Advanced Vent Tech Graphic Camo",
+    "category": "Khác",
+    "price": 199000.0,
+    "original_price": 219000.0,
+    "discount_percent": 9,
+    "short_description": "Áo Singlet chạy bộ Advanced Vent Tech Graphic Camo",
+    "description": "Sản phẩm Áo Singlet chạy bộ Advanced Vent Tech Graphic Camo thuộc danh mục Khác với giá 199,000đ"
+  },
+  {
+    "id": "prod_0060",
+    "title": "Áo Singlet chạy bộ Advanced Vent Tech Graphic Pixel",
+    "category": "Khác",
+    "price": 199000.0,
+    "original_price": 219000.0,
+    "discount_percent": 9,
+    "short_description": "Áo Singlet chạy bộ Advanced Vent Tech Graphic Pixel",
+    "description": "Sản phẩm Áo Singlet chạy bộ Advanced Vent Tech Graphic Pixel thuộc danh mục Khác với giá 199,000đ"
+  },
+  {
+    "id": "prod_0061",
+    "title": "Áo thun Relaxed Fit in Bé gái cầm cờ",
+    "category": "Áo thun",
+    "price": 249000.0,
+    "original_price": 249000.0,
+    "discount_percent": 0,
+    "short_description": "Áo thun Relaxed Fit in Bé gái cầm cờ",
+    "description": "Sản phẩm Áo thun Relaxed Fit in Bé gái cầm cờ thuộc danh mục Áo thun với giá 249,000đ"
+  },
+  {
+    "id": "prod_0062",
+    "title": "Áo thun Relaxed Fit in Bé trai cầm cờ",
+    "category": "Áo thun",
+    "price": 249000.0,
+    "original_price": 249000.0,
+    "discount_percent": 0,
+    "short_description": "Áo thun Relaxed Fit in Bé trai cầm cờ",
+    "description": "Sản phẩm Áo thun Relaxed Fit in Bé trai cầm cờ thuộc danh mục Áo thun với giá 249,000đ"
+  },
+  {
+    "id": "prod_0063",
+    "title": "Áo thun Relaxed fit in Cờ đỏ - Độc lập",
+    "category": "Áo thun",
+    "price": 249000.0,
+    "original_price": 249000.0,
+    "discount_percent": 0,
+    "short_description": "Áo thun Relaxed fit in Cờ đỏ - Độc lập",
+    "description": "Sản phẩm Áo thun Relaxed fit in Cờ đỏ - Độc lập thuộc danh mục Áo thun với giá 249,000đ"
+  },
+  {
+    "id": "prod_0064",
+    "title": "Áo thun Cotton Relaxed fit in Hoà Bình",
+    "category": "Áo thun",
+    "price": 219000.0,
+    "original_price": 249000.0,
+    "discount_percent": 12,
+    "short_description": "Áo thun Cotton Relaxed fit in Hoà Bình",
+    "description": "Sản phẩm Áo thun Cotton Relaxed fit in Hoà Bình thuộc danh mục Áo thun với giá 219,000đ"
+  },
+  {
+    "id": "prod_0065",
+    "title": "Áo thun Cotton Relaxed Fit in Việt Nam",
+    "category": "Áo thun",
+    "price": 249000.0,
+    "original_price": 249000.0,
+    "discount_percent": 0,
+    "short_description": "Áo thun Cotton Relaxed Fit in Việt Nam",
+    "description": "Sản phẩm Áo thun Cotton Relaxed Fit in Việt Nam thuộc danh mục Áo thun với giá 249,000đ"
+  },
+  {
+    "id": "prod_0066",
+    "title": "Quần nam Travel Shorts 7inch",
+    "category": "Quần",
+    "price": 259000.0,
+    "original_price": 349000.0,
+    "discount_percent": 26,
+    "short_description": "Quần nam Travel Shorts 7inch",
+    "description": "Sản phẩm Quần nam Travel Shorts 7inch thuộc danh mục Quần với giá 259,000đ"
+  },
+  {
+    "id": "prod_0067",
+    "title": "Quần Shorts Summer Cool 7inch 2 lớp",
+    "category": "Quần",
+    "price": 299000.0,
+    "original_price": 399000.0,
+    "discount_percent": 25,
+    "short_description": "Quần Shorts Summer Cool 7inch 2 lớp",
+    "description": "Sản phẩm Quần Shorts Summer Cool 7inch 2 lớp thuộc danh mục Quần với giá 299,000đ"
+  },
+  {
+    "id": "prod_0068",
+    "title": "Quần Chino nam 7 inch",
+    "category": "Quần",
+    "price": 299000.0,
+    "original_price": 379000.0,
+    "discount_percent": 21,
+    "short_description": "Quần Chino nam 7 inch",
+    "description": "Sản phẩm Quần Chino nam 7 inch thuộc danh mục Quần với giá 299,000đ"
+  },
+  {
+    "id": "prod_0069",
+    "title": "Quần Shorts Running Essentials 5 inch",
+    "category": "Quần",
+    "price": 199000.0,
+    "original_price": 219000.0,
+    "discount_percent": 9,
+    "short_description": "Quần Shorts Running Essentials 5 inch",
+    "description": "Sản phẩm Quần Shorts Running Essentials 5 inch thuộc danh mục Quần với giá 199,000đ"
+  },
+  {
+    "id": "prod_0070",
+    "title": "Áo thun Relaxed Fit 84RISING Marvel Captain America - American Symbol",
+    "category": "Áo thun",
+    "price": 319000.0,
+    "original_price": 399000.0,
+    "discount_percent": 20,
+    "short_description": "Áo thun Relaxed Fit 84RISING Marvel Captain America - American Symbol",
+    "description": "Sản phẩm Áo thun Relaxed Fit 84RISING Marvel Captain America - American Symbol thuộc danh mục Áo thun với giá 319,000đ"
+  },
+  {
+    "id": "prod_0071",
+    "title": "Áo thun Relaxed Fit 84RISING Marvel Captain America - The Soldier",
+    "category": "Áo thun",
+    "price": 319000.0,
+    "original_price": 399000.0,
+    "discount_percent": 20,
+    "short_description": "Áo thun Relaxed Fit 84RISING Marvel Captain America - The Soldier",
+    "description": "Sản phẩm Áo thun Relaxed Fit 84RISING Marvel Captain America - The Soldier thuộc danh mục Áo thun với giá 319,000đ"
+  },
+  {
+    "id": "prod_0072",
+    "title": "Áo thun Relaxed Fit 84RISING Marvel Captain America",
+    "category": "Áo thun",
+    "price": 319000.0,
+    "original_price": 399000.0,
+    "discount_percent": 20,
+    "short_description": "Áo thun Relaxed Fit 84RISING Marvel Captain America",
+    "description": "Sản phẩm Áo thun Relaxed Fit 84RISING Marvel Captain America thuộc danh mục Áo thun với giá 319,000đ"
+  },
+  {
+    "id": "prod_0073",
+    "title": "Áo thun Relaxed Fit 84RISING Marvel Captain America - #Takebacktheshield",
+    "category": "Áo thun",
+    "price": 319000.0,
+    "original_price": 399000.0,
+    "discount_percent": 20,
+    "short_description": "Áo thun Relaxed Fit 84RISING Marvel Captain America - #Takebacktheshield",
+    "description": "Sản phẩm Áo thun Relaxed Fit 84RISING Marvel Captain America - #Takebacktheshield thuộc danh mục Áo thun với giá 319,000đ"
+  },
+  {
+    "id": "prod_0074",
+    "title": "Áo thun Relaxed Fit 84RISING Marvel Captain America - Stars and stripes",
+    "category": "Áo thun",
+    "price": 319000.0,
+    "original_price": 399000.0,
+    "discount_percent": 20,
+    "short_description": "Áo thun Relaxed Fit 84RISING Marvel Captain America - Stars and stripes",
+    "description": "Sản phẩm Áo thun Relaxed Fit 84RISING Marvel Captain America - Stars and stripes thuộc danh mục Áo thun với giá 319,000đ"
+  },
+  {
+    "id": "prod_0075",
+    "title": "Áo thun Relaxed Fit 84RISING Marvel Captain America - Sam Wilson",
+    "category": "Áo thun",
+    "price": 319000.0,
+    "original_price": 399000.0,
+    "discount_percent": 20,
+    "short_description": "Áo thun Relaxed Fit 84RISING Marvel Captain America - Sam Wilson",
+    "description": "Sản phẩm Áo thun Relaxed Fit 84RISING Marvel Captain America - Sam Wilson thuộc danh mục Áo thun với giá 319,000đ"
+  },
+  {
+    "id": "prod_0076",
+    "title": "Áo thun Relaxed Fit 84RISING Disney Corner in TẾT - Happy Mickey",
+    "category": "Áo thun",
+    "price": 319000.0,
+    "original_price": 399000.0,
+    "discount_percent": 20,
+    "short_description": "Áo thun Relaxed Fit 84RISING Disney Corner in TẾT - Happy Mickey",
+    "description": "Sản phẩm Áo thun Relaxed Fit 84RISING Disney Corner in TẾT - Happy Mickey thuộc danh mục Áo thun với giá 319,000đ"
+  },
+  {
+    "id": "prod_0077",
+    "title": "Áo thun Relaxed Fit 84RISING Disney Corner in TẾT - Múa Lân",
+    "category": "Áo thun",
+    "price": 319000.0,
+    "original_price": 399000.0,
+    "discount_percent": 20,
+    "short_description": "Áo thun Relaxed Fit 84RISING Disney Corner in TẾT - Múa Lân",
+    "description": "Sản phẩm Áo thun Relaxed Fit 84RISING Disney Corner in TẾT - Múa Lân thuộc danh mục Áo thun với giá 319,000đ"
+  },
+  {
+    "id": "prod_0078",
+    "title": "Áo thun Relaxed Fit 84RISING Disney Corner in TẾT - Mickey Mouse",
+    "category": "Áo thun",
+    "price": 319000.0,
+    "original_price": 399000.0,
+    "discount_percent": 20,
+    "short_description": "Áo thun Relaxed Fit 84RISING Disney Corner in TẾT - Mickey Mouse",
+    "description": "Sản phẩm Áo thun Relaxed Fit 84RISING Disney Corner in TẾT - Mickey Mouse thuộc danh mục Áo thun với giá 319,000đ"
+  },
+  {
+    "id": "prod_0079",
+    "title": "Áo khoác 2 lớp Casual",
+    "category": "Áo khoác",
+    "price": 489000.0,
+    "original_price": 649000.0,
+    "discount_percent": 25,
+    "short_description": "Áo khoác 2 lớp Casual",
+    "description": "Sản phẩm Áo khoác 2 lớp Casual thuộc danh mục Áo khoác với giá 489,000đ"
+  },
+  {
+    "id": "prod_0080",
+    "title": "Quần Jogger thể thao Track Pants Essential",
+    "category": "Quần",
+    "price": 299000.0,
+    "original_price": 379000.0,
+    "discount_percent": 21,
+    "short_description": "Quần Jogger thể thao Track Pants Essential",
+    "description": "Sản phẩm Quần Jogger thể thao Track Pants Essential thuộc danh mục Quần với giá 299,000đ"
+  },
+  {
+    "id": "prod_0081",
+    "title": "Áo sơ mi Overshirt 100% Cotton",
+    "category": "Áo sơ mi",
+    "price": 359000.0,
+    "original_price": 399000.0,
+    "discount_percent": 10,
+    "short_description": "Áo sơ mi Overshirt 100% Cotton",
+    "description": "Sản phẩm Áo sơ mi Overshirt 100% Cotton thuộc danh mục Áo sơ mi với giá 359,000đ"
+  },
+  {
+    "id": "prod_0082",
+    "title": "Áo sơ mi Flannel 100% Cotton",
+    "category": "Áo sơ mi",
+    "price": 319000.0,
+    "original_price": 399000.0,
+    "discount_percent": 20,
+    "short_description": "Áo sơ mi Flannel 100% Cotton",
+    "description": "Sản phẩm Áo sơ mi Flannel 100% Cotton thuộc danh mục Áo sơ mi với giá 319,000đ"
+  },
+  {
+    "id": "prod_0083",
+    "title": "Quần Jogger ECC Warp Knitting",
+    "category": "Quần",
+    "price": 469000.0,
+    "original_price": 590000.0,
+    "discount_percent": 21,
+    "short_description": "Quần Jogger ECC Warp Knitting",
+    "description": "Sản phẩm Quần Jogger ECC Warp Knitting thuộc danh mục Quần với giá 469,000đ"
+  },
+  {
+    "id": "prod_0084",
+    "title": "Quần Jogger thể thao Fleece Track Pants Premium",
+    "category": "Quần",
+    "price": 479000.0,
+    "original_price": 599000.0,
+    "discount_percent": 20,
+    "short_description": "Quần Jogger thể thao Fleece Track Pants Premium",
+    "description": "Sản phẩm Quần Jogger thể thao Fleece Track Pants Premium thuộc danh mục Quần với giá 479,000đ"
+  },
+  {
+    "id": "prod_0085",
+    "title": "Áo thun dài tay 100% Cotton Relax fit",
+    "category": "Áo thun",
+    "price": 219000.0,
+    "original_price": 299000.0,
+    "discount_percent": 27,
+    "short_description": "Áo thun dài tay 100% Cotton Relax fit",
+    "description": "Sản phẩm Áo thun dài tay 100% Cotton Relax fit thuộc danh mục Áo thun với giá 219,000đ"
+  },
+  {
+    "id": "prod_0086",
+    "title": "Áo thun dài tay Relaxed Fit 84RISING Everyday Venom",
+    "category": "Áo thun",
+    "price": 319000.0,
+    "original_price": 399000.0,
+    "discount_percent": 20,
+    "short_description": "Áo thun dài tay Relaxed Fit 84RISING Everyday Venom",
+    "description": "Sản phẩm Áo thun dài tay Relaxed Fit 84RISING Everyday Venom thuộc danh mục Áo thun với giá 319,000đ"
+  },
+  {
+    "id": "prod_0087",
+    "title": "Áo thun Relaxed Fit 84RISING Venom Signature",
+    "category": "Áo thun",
+    "price": 319000.0,
+    "original_price": 399000.0,
+    "discount_percent": 20,
+    "short_description": "Áo thun Relaxed Fit 84RISING Venom Signature",
+    "description": "Sản phẩm Áo thun Relaxed Fit 84RISING Venom Signature thuộc danh mục Áo thun với giá 319,000đ"
+  },
+  {
+    "id": "prod_0088",
+    "title": "Áo thun Relaxed Fit 84RISING HEHEHE",
+    "category": "Áo thun",
+    "price": 319000.0,
+    "original_price": 399000.0,
+    "discount_percent": 20,
+    "short_description": "Áo thun Relaxed Fit 84RISING HEHEHE",
+    "description": "Sản phẩm Áo thun Relaxed Fit 84RISING HEHEHE thuộc danh mục Áo thun với giá 319,000đ"
+  },
+  {
+    "id": "prod_0089",
+    "title": "Áo thun Relaxed Fit 84RISING Classic Venom",
+    "category": "Áo thun",
+    "price": 319000.0,
+    "original_price": 399000.0,
+    "discount_percent": 20,
+    "short_description": "Áo thun Relaxed Fit 84RISING Classic Venom",
+    "description": "Sản phẩm Áo thun Relaxed Fit 84RISING Classic Venom thuộc danh mục Áo thun với giá 319,000đ"
+  },
+  {
+    "id": "prod_0090",
+    "title": "Áo thun Relaxed Fit 84RISING Claw Marks",
+    "category": "Áo thun",
+    "price": 319000.0,
+    "original_price": 399000.0,
+    "discount_percent": 20,
+    "short_description": "Áo thun Relaxed Fit 84RISING Claw Marks",
+    "description": "Sản phẩm Áo thun Relaxed Fit 84RISING Claw Marks thuộc danh mục Áo thun với giá 319,000đ"
+  },
+  {
+    "id": "prod_0091",
+    "title": "Áo thun Relaxed Fit 84RISING Symbiotes",
+    "category": "Áo thun",
+    "price": 319000.0,
+    "original_price": 399000.0,
+    "discount_percent": 20,
+    "short_description": "Áo thun Relaxed Fit 84RISING Symbiotes",
+    "description": "Sản phẩm Áo thun Relaxed Fit 84RISING Symbiotes thuộc danh mục Áo thun với giá 319,000đ"
+  },
+  {
+    "id": "prod_0092",
+    "title": "Áo thun Relaxed Fit 84RISING Venom",
+    "category": "Áo thun",
+    "price": 319000.0,
+    "original_price": 399000.0,
+    "discount_percent": 20,
+    "short_description": "Áo thun Relaxed Fit 84RISING Venom",
+    "description": "Sản phẩm Áo thun Relaxed Fit 84RISING Venom thuộc danh mục Áo thun với giá 319,000đ"
+  },
+  {
+    "id": "prod_0093",
+    "title": "Áo thun Relaxed Fit 84RISING We are Venom",
+    "category": "Áo thun",
+    "price": 319000.0,
+    "original_price": 399000.0,
+    "discount_percent": 20,
+    "short_description": "Áo thun Relaxed Fit 84RISING We are Venom",
+    "description": "Sản phẩm Áo thun Relaxed Fit 84RISING We are Venom thuộc danh mục Áo thun với giá 319,000đ"
+  },
+  {
+    "id": "prod_0094",
+    "title": "Áo thun Relaxed Fit 84RISING Lethal Protector #1",
+    "category": "Áo thun",
+    "price": 319000.0,
+    "original_price": 399000.0,
+    "discount_percent": 20,
+    "short_description": "Áo thun Relaxed Fit 84RISING Lethal Protector #1",
+    "description": "Sản phẩm Áo thun Relaxed Fit 84RISING Lethal Protector #1 thuộc danh mục Áo thun với giá 319,000đ"
+  },
+  {
+    "id": "prod_0095",
+    "title": "Áo thun Relaxed Fit 84RISING Lethal Protector #2",
+    "category": "Áo thun",
+    "price": 319000.0,
+    "original_price": 399000.0,
+    "discount_percent": 20,
+    "short_description": "Áo thun Relaxed Fit 84RISING Lethal Protector #2",
+    "description": "Sản phẩm Áo thun Relaxed Fit 84RISING Lethal Protector #2 thuộc danh mục Áo thun với giá 319,000đ"
+  },
+  {
+    "id": "prod_0096",
+    "title": "Áo thun Relaxed Fit 84RISING Let's Dance",
+    "category": "Áo thun",
+    "price": 319000.0,
+    "original_price": 399000.0,
+    "discount_percent": 20,
+    "short_description": "Áo thun Relaxed Fit 84RISING Let's Dance",
+    "description": "Sản phẩm Áo thun Relaxed Fit 84RISING Let's Dance thuộc danh mục Áo thun với giá 319,000đ"
+  },
+  {
+    "id": "prod_0097",
+    "title": "Áo sơ mi dài tay Oxford Premium",
+    "category": "Áo sơ mi",
+    "price": 479000.0,
+    "original_price": 599000.0,
+    "discount_percent": 20,
+    "short_description": "Áo sơ mi dài tay Oxford Premium",
+    "description": "Sản phẩm Áo sơ mi dài tay Oxford Premium thuộc danh mục Áo sơ mi với giá 479,000đ"
+  },
+  {
+    "id": "prod_0098",
+    "title": "Áo sơ mi dài tay Modal Essential",
+    "category": "Áo sơ mi",
+    "price": 399000.0,
+    "original_price": 499000.0,
+    "discount_percent": 20,
+    "short_description": "Áo sơ mi dài tay Modal Essential",
+    "description": "Sản phẩm Áo sơ mi dài tay Modal Essential thuộc danh mục Áo sơ mi với giá 399,000đ"
+  },
+  {
+    "id": "prod_0099",
+    "title": "Áo thun Relaxed Fit 84RISING Mickey Mouse Club House",
+    "category": "Áo thun",
+    "price": 239000.0,
+    "original_price": 299000.0,
+    "discount_percent": 20,
+    "short_description": "Áo thun Relaxed Fit 84RISING Mickey Mouse Club House",
+    "description": "Sản phẩm Áo thun Relaxed Fit 84RISING Mickey Mouse Club House thuộc danh mục Áo thun với giá 239,000đ"
+  },
+  {
+    "id": "prod_0100",
+    "title": "Áo thun Relaxed Fit 84RISING Mickey Sketch",
+    "category": "Áo thun",
+    "price": 239000.0,
+    "original_price": 299000.0,
+    "discount_percent": 20,
+    "short_description": "Áo thun Relaxed Fit 84RISING Mickey Sketch",
+    "description": "Sản phẩm Áo thun Relaxed Fit 84RISING Mickey Sketch thuộc danh mục Áo thun với giá 239,000đ"
+  },
+  {
+    "id": "prod_0101",
+    "title": "Áo thun Relaxed Fit 84RISING MouseNap",
+    "category": "Áo thun",
+    "price": 239000.0,
+    "original_price": 299000.0,
+    "discount_percent": 20,
+    "short_description": "Áo thun Relaxed Fit 84RISING MouseNap",
+    "description": "Sản phẩm Áo thun Relaxed Fit 84RISING MouseNap thuộc danh mục Áo thun với giá 239,000đ"
+  },
+  {
+    "id": "prod_0102",
+    "title": "Áo thun Relaxed Fit 84RISING Legend Club",
+    "category": "Áo thun",
+    "price": 239000.0,
+    "original_price": 299000.0,
+    "discount_percent": 20,
+    "short_description": "Áo thun Relaxed Fit 84RISING Legend Club",
+    "description": "Sản phẩm Áo thun Relaxed Fit 84RISING Legend Club thuộc danh mục Áo thun với giá 239,000đ"
+  },
+  {
+    "id": "prod_0103",
+    "title": "Áo thun Relaxed Fit 84RISING Starring Mickey Mouse",
+    "category": "Áo thun",
+    "price": 239000.0,
+    "original_price": 299000.0,
+    "discount_percent": 20,
+    "short_description": "Áo thun Relaxed Fit 84RISING Starring Mickey Mouse",
+    "description": "Sản phẩm Áo thun Relaxed Fit 84RISING Starring Mickey Mouse thuộc danh mục Áo thun với giá 239,000đ"
+  },
+  {
+    "id": "prod_0104",
+    "title": "Áo thun Relaxed Fit 84RISING Mickey Retro Jam",
+    "category": "Áo thun",
+    "price": 269000.0,
+    "original_price": 299000.0,
+    "discount_percent": 10,
+    "short_description": "Áo thun Relaxed Fit 84RISING Mickey Retro Jam",
+    "description": "Sản phẩm Áo thun Relaxed Fit 84RISING Mickey Retro Jam thuộc danh mục Áo thun với giá 269,000đ"
+  },
+  {
+    "id": "prod_0105",
+    "title": "Combo 2 Áo thun chạy bộ Advanced Vent Tech",
+    "category": "Áo thun",
+    "price": 349000.0,
+    "original_price": 438000.0,
+    "discount_percent": 20,
+    "short_description": "Combo 2 Áo thun chạy bộ Advanced Vent Tech",
+    "description": "Sản phẩm Combo 2 Áo thun chạy bộ Advanced Vent Tech thuộc danh mục Áo thun với giá 349,000đ"
+  },
+  {
+    "id": "prod_0106",
+    "title": "Quần shorts 6 inch Racquet Sports",
+    "category": "Quần",
+    "price": 159000.0,
+    "original_price": 199000.0,
+    "discount_percent": 20,
+    "short_description": "Quần shorts 6 inch Racquet Sports",
+    "description": "Sản phẩm Quần shorts 6 inch Racquet Sports thuộc danh mục Quần với giá 159,000đ"
+  },
+  {
+    "id": "prod_0107",
+    "title": "Set tập Tanktop Gym Essentials II 3in1",
+    "category": "Khác",
+    "price": 359000.0,
+    "original_price": 477000.0,
+    "discount_percent": 25,
+    "short_description": "Set tập Tanktop Gym Essentials II 3in1",
+    "description": "Sản phẩm Set tập Tanktop Gym Essentials II 3in1 thuộc danh mục Khác với giá 359,000đ"
+  },
+  {
+    "id": "prod_0108",
+    "title": "Áo thun Cotton Compact In Phê Game Xbox",
+    "category": "Áo thun",
+    "price": 275000.0,
+    "original_price": 320000.0,
+    "discount_percent": 14,
+    "short_description": "Áo thun Cotton Compact In Phê Game Xbox",
+    "description": "Sản phẩm Áo thun Cotton Compact In Phê Game Xbox thuộc danh mục Áo thun với giá 275,000đ"
+  },
+  {
+    "id": "prod_0109",
+    "title": "Áo thun Cotton Compact In Phê Game Switch",
+    "category": "Áo thun",
+    "price": 275000.0,
+    "original_price": 320000.0,
+    "discount_percent": 14,
+    "short_description": "Áo thun Cotton Compact In Phê Game Switch",
+    "description": "Sản phẩm Áo thun Cotton Compact In Phê Game Switch thuộc danh mục Áo thun với giá 275,000đ"
+  },
+  {
+    "id": "prod_0110",
+    "title": "Áo thun Cotton Compact In Phê Game PS5",
+    "category": "Áo thun",
+    "price": 275000.0,
+    "original_price": 320000.0,
+    "discount_percent": 14,
+    "short_description": "Áo thun Cotton Compact In Phê Game PS5",
+    "description": "Sản phẩm Áo thun Cotton Compact In Phê Game PS5 thuộc danh mục Áo thun với giá 275,000đ"
+  },
+  {
+    "id": "prod_0111",
+    "title": "Áo thun Cotton Compact In Phê Game",
+    "category": "Áo thun",
+    "price": 275000.0,
+    "original_price": 320000.0,
+    "discount_percent": 14,
+    "short_description": "Áo thun Cotton Compact In Phê Game",
+    "description": "Sản phẩm Áo thun Cotton Compact In Phê Game thuộc danh mục Áo thun với giá 275,000đ"
+  },
+  {
+    "id": "prod_0112",
+    "title": "Áo thun Denim Swatches",
+    "category": "Áo thun",
+    "price": 159000.0,
+    "original_price": 299000.0,
+    "discount_percent": 47,
+    "short_description": "Áo thun Denim Swatches",
+    "description": "Sản phẩm Áo thun Denim Swatches thuộc danh mục Áo thun với giá 159,000đ"
+  },
+  {
+    "id": "prod_0113",
+    "title": "Áo Thun Bóng Đá Cổ V CFA24",
+    "category": "Áo thun",
+    "price": 199000.0,
+    "original_price": 249000.0,
+    "discount_percent": 20,
+    "short_description": "Áo Thun Bóng Đá Cổ V CFA24",
+    "description": "Sản phẩm Áo Thun Bóng Đá Cổ V CFA24 thuộc danh mục Áo thun với giá 199,000đ"
+  },
+  {
+    "id": "prod_0114",
+    "title": "Áo Thun Bóng Đá Cổ Tròn CFA24",
+    "category": "Áo thun",
+    "price": 199000.0,
+    "original_price": 249000.0,
+    "discount_percent": 20,
+    "short_description": "Áo Thun Bóng Đá Cổ Tròn CFA24",
+    "description": "Sản phẩm Áo Thun Bóng Đá Cổ Tròn CFA24 thuộc danh mục Áo thun với giá 199,000đ"
+  },
+  {
+    "id": "prod_0115",
+    "title": "Quần Jogger Thể Thao ExDry",
+    "category": "Quần",
+    "price": 259000.0,
+    "original_price": 329000.0,
+    "discount_percent": 21,
+    "short_description": "Quần Jogger Thể Thao ExDry",
+    "description": "Sản phẩm Quần Jogger Thể Thao ExDry thuộc danh mục Quần với giá 259,000đ"
+  },
+  {
+    "id": "prod_0116",
+    "title": "Áo thun Copper Denim in CoolMÁTe",
+    "category": "Áo thun",
+    "price": 179000.0,
+    "original_price": 299000.0,
+    "discount_percent": 40,
+    "short_description": "Áo thun Copper Denim in CoolMÁTe",
+    "description": "Sản phẩm Áo thun Copper Denim in CoolMÁTe thuộc danh mục Áo thun với giá 179,000đ"
+  },
+  {
+    "id": "prod_0117",
+    "title": "Quần Dài Nam ECC Warp Pants dáng Slim",
+    "category": "Quần",
+    "price": 469000.0,
+    "original_price": 590000.0,
+    "discount_percent": 21,
+    "short_description": "Quần Dài Nam ECC Warp Pants dáng Slim",
+    "description": "Sản phẩm Quần Dài Nam ECC Warp Pants dáng Slim thuộc danh mục Quần với giá 469,000đ"
+  },
+  {
+    "id": "prod_0118",
+    "title": "Áo Sơ Mi Dài Tay Premium Poplin",
+    "category": "Áo sơ mi",
+    "price": 479000.0,
+    "original_price": 599000.0,
+    "discount_percent": 20,
+    "short_description": "Áo Sơ Mi Dài Tay Premium Poplin",
+    "description": "Sản phẩm Áo Sơ Mi Dài Tay Premium Poplin thuộc danh mục Áo sơ mi với giá 479,000đ"
+  },
+  {
+    "id": "prod_0119",
+    "title": "Áo Sơ Mi Dài Tay Premium Dobby",
+    "category": "Áo sơ mi",
+    "price": 479000.0,
+    "original_price": 599000.0,
+    "discount_percent": 20,
+    "short_description": "Áo Sơ Mi Dài Tay Premium Dobby",
+    "description": "Sản phẩm Áo Sơ Mi Dài Tay Premium Dobby thuộc danh mục Áo sơ mi với giá 479,000đ"
+  },
+  {
+    "id": "prod_0120",
+    "title": "Quần Shorts Nam Mặc Nhà",
+    "category": "Quần",
+    "price": 99000.0,
+    "original_price": 99000.0,
+    "discount_percent": 0,
+    "short_description": "Quần Shorts Nam Mặc Nhà",
+    "description": "Sản phẩm Quần Shorts Nam Mặc Nhà thuộc danh mục Quần với giá 99,000đ"
+  },
+  {
+    "id": "prod_0121",
+    "title": "Áo thun Relaxed Fit 84RISING Pluto",
+    "category": "Áo thun",
+    "price": 199000.0,
+    "original_price": 399000.0,
+    "discount_percent": 50,
+    "short_description": "Áo thun Relaxed Fit 84RISING Pluto",
+    "description": "Sản phẩm Áo thun Relaxed Fit 84RISING Pluto thuộc danh mục Áo thun với giá 199,000đ"
+  },
+  {
+    "id": "prod_0122",
+    "title": "Áo thun Stitch Summer Surfing",
+    "category": "Áo thun",
+    "price": 219000.0,
+    "original_price": 249000.0,
+    "discount_percent": 12,
+    "short_description": "Áo thun Stitch Summer Surfing",
+    "description": "Sản phẩm Áo thun Stitch Summer Surfing thuộc danh mục Áo thun với giá 219,000đ"
+  },
+  {
+    "id": "prod_0123",
+    "title": "Áo thun Cotton Compact In Lụa VỤN ART Oẳn Tù Tì",
+    "category": "Áo thun",
+    "price": 239000.0,
+    "original_price": 299000.0,
+    "discount_percent": 20,
+    "short_description": "Áo thun Cotton Compact In Lụa VỤN ART Oẳn Tù Tì",
+    "description": "Sản phẩm Áo thun Cotton Compact In Lụa VỤN ART Oẳn Tù Tì thuộc danh mục Áo thun với giá 239,000đ"
+  },
+  {
+    "id": "prod_0124",
+    "title": "Áo thun Cotton Compact In Lụa VỤN ART Logo Giữa V1",
+    "category": "Áo thun",
+    "price": 239000.0,
+    "original_price": 299000.0,
+    "discount_percent": 20,
+    "short_description": "Áo thun Cotton Compact In Lụa VỤN ART Logo Giữa V1",
+    "description": "Sản phẩm Áo thun Cotton Compact In Lụa VỤN ART Logo Giữa V1 thuộc danh mục Áo thun với giá 239,000đ"
+  },
+  {
+    "id": "prod_0125",
+    "title": "Áo Thun Care & Share Hoi",
+    "category": "Áo thun",
+    "price": 149000.0,
+    "original_price": 199000.0,
+    "discount_percent": 25,
+    "short_description": "Áo Thun Care & Share Hoi",
+    "description": "Sản phẩm Áo Thun Care & Share Hoi thuộc danh mục Áo thun với giá 149,000đ"
+  },
+  {
+    "id": "prod_0126",
+    "title": "Áo Thun Care & Share Tuat",
+    "category": "Áo thun",
+    "price": 149000.0,
+    "original_price": 199000.0,
+    "discount_percent": 25,
+    "short_description": "Áo Thun Care & Share Tuat",
+    "description": "Sản phẩm Áo Thun Care & Share Tuat thuộc danh mục Áo thun với giá 149,000đ"
+  },
+  {
+    "id": "prod_0127",
+    "title": "Áo Thun Care & Share Dau",
+    "category": "Áo thun",
+    "price": 149000.0,
+    "original_price": 199000.0,
+    "discount_percent": 25,
+    "short_description": "Áo Thun Care & Share Dau",
+    "description": "Sản phẩm Áo Thun Care & Share Dau thuộc danh mục Áo thun với giá 149,000đ"
+  },
+  {
+    "id": "prod_0128",
+    "title": "Áo Thun Care & Share Than",
+    "category": "Áo thun",
+    "price": 149000.0,
+    "original_price": 199000.0,
+    "discount_percent": 25,
+    "short_description": "Áo Thun Care & Share Than",
+    "description": "Sản phẩm Áo Thun Care & Share Than thuộc danh mục Áo thun với giá 149,000đ"
+  },
+  {
+    "id": "prod_0129",
+    "title": "Áo Thun Care & Share Mui",
+    "category": "Áo thun",
+    "price": 149000.0,
+    "original_price": 199000.0,
+    "discount_percent": 25,
+    "short_description": "Áo Thun Care & Share Mui",
+    "description": "Sản phẩm Áo Thun Care & Share Mui thuộc danh mục Áo thun với giá 149,000đ"
+  },
+  {
+    "id": "prod_0130",
+    "title": "Áo Thun Care & Share Mao",
+    "category": "Áo thun",
+    "price": 149000.0,
+    "original_price": 199000.0,
+    "discount_percent": 25,
+    "short_description": "Áo Thun Care & Share Mao",
+    "description": "Sản phẩm Áo Thun Care & Share Mao thuộc danh mục Áo thun với giá 149,000đ"
+  },
+  {
+    "id": "prod_0131",
+    "title": "Áo Thun Care & Share Ty",
+    "category": "Áo thun",
+    "price": 149000.0,
+    "original_price": 199000.0,
+    "discount_percent": 25,
+    "short_description": "Áo Thun Care & Share Ty",
+    "description": "Sản phẩm Áo Thun Care & Share Ty thuộc danh mục Áo thun với giá 149,000đ"
+  },
+  {
+    "id": "prod_0132",
+    "title": "Áo Thun Care & Share Thin",
+    "category": "Áo thun",
+    "price": 149000.0,
+    "original_price": 199000.0,
+    "discount_percent": 25,
+    "short_description": "Áo Thun Care & Share Thin",
+    "description": "Sản phẩm Áo Thun Care & Share Thin thuộc danh mục Áo thun với giá 149,000đ"
+  },
+  {
+    "id": "prod_0133",
+    "title": "Áo Thun Care & Share Ngo",
+    "category": "Áo thun",
+    "price": 149000.0,
+    "original_price": 199000.0,
+    "discount_percent": 25,
+    "short_description": "Áo Thun Care & Share Ngo",
+    "description": "Sản phẩm Áo Thun Care & Share Ngo thuộc danh mục Áo thun với giá 149,000đ"
+  },
+  {
+    "id": "prod_0134",
+    "title": "Áo Thun Care & Share Dan",
+    "category": "Áo thun",
+    "price": 149000.0,
+    "original_price": 199000.0,
+    "discount_percent": 25,
+    "short_description": "Áo Thun Care & Share Dan",
+    "description": "Sản phẩm Áo Thun Care & Share Dan thuộc danh mục Áo thun với giá 149,000đ"
+  },
+  {
+    "id": "prod_0135",
+    "title": "Áo Thun Care & Share Suu",
+    "category": "Áo thun",
+    "price": 149000.0,
+    "original_price": 199000.0,
+    "discount_percent": 25,
+    "short_description": "Áo Thun Care & Share Suu",
+    "description": "Sản phẩm Áo Thun Care & Share Suu thuộc danh mục Áo thun với giá 149,000đ"
+  },
+  {
+    "id": "prod_0136",
+    "title": "Áo Thun Care & Share Ti",
+    "category": "Áo thun",
+    "price": 149000.0,
+    "original_price": 199000.0,
+    "discount_percent": 25,
+    "short_description": "Áo Thun Care & Share Ti",
+    "description": "Sản phẩm Áo Thun Care & Share Ti thuộc danh mục Áo thun với giá 149,000đ"
+  },
+  {
+    "id": "prod_0137",
+    "title": "Áo Thun Care & Share Ver2",
+    "category": "Áo thun",
+    "price": 149000.0,
+    "original_price": 199000.0,
+    "discount_percent": 25,
+    "short_description": "Áo Thun Care & Share Ver2",
+    "description": "Sản phẩm Áo Thun Care & Share Ver2 thuộc danh mục Áo thun với giá 149,000đ"
+  },
+  {
+    "id": "prod_0138",
+    "title": "Áo Thun Care & Share Ver1",
+    "category": "Áo thun",
+    "price": 159000.0,
+    "original_price": 199000.0,
+    "discount_percent": 20,
+    "short_description": "Áo Thun Care & Share Ver1",
+    "description": "Sản phẩm Áo Thun Care & Share Ver1 thuộc danh mục Áo thun với giá 159,000đ"
+  },
+  {
+    "id": "prod_0139",
+    "title": "Quần Dài Nam Tháo Ống UT Pants 2 in 1",
+    "category": "Quần",
+    "price": 669000.0,
+    "original_price": 790000.0,
+    "discount_percent": 15,
+    "short_description": "Quần Dài Nam Tháo Ống UT Pants 2 in 1",
+    "description": "Sản phẩm Quần Dài Nam Tháo Ống UT Pants 2 in 1 thuộc danh mục Quần với giá 669,000đ"
+  },
+  {
+    "id": "prod_0140",
+    "title": "Quần Shorts Chạy Bộ 7 inch Essentials",
+    "category": "Quần",
+    "price": 175000.0,
+    "original_price": 219000.0,
+    "discount_percent": 20,
+    "short_description": "Quần Shorts Chạy Bộ 7 inch Essentials",
+    "description": "Sản phẩm Quần Shorts Chạy Bộ 7 inch Essentials thuộc danh mục Quần với giá 175,000đ"
+  },
+  {
+    "id": "prod_0141",
+    "title": "Pack 3 Áo Polo nam Pique Cotton",
+    "category": "Áo polo",
+    "price": 699000.0,
+    "original_price": 897000.0,
+    "discount_percent": 22,
+    "short_description": "Pack 3 Áo Polo nam Pique Cotton",
+    "description": "Sản phẩm Pack 3 Áo Polo nam Pique Cotton thuộc danh mục Áo polo với giá 699,000đ"
+  },
+  {
+    "id": "prod_0142",
+    "title": "Pack 3 Áo thun nam Cotton 220gsm",
+    "category": "Áo thun",
+    "price": 429000.0,
+    "original_price": 537000.0,
+    "discount_percent": 20,
+    "short_description": "Pack 3 Áo thun nam Cotton 220gsm",
+    "description": "Sản phẩm Pack 3 Áo thun nam Cotton 220gsm thuộc danh mục Áo thun với giá 429,000đ"
+  },
+  {
+    "id": "prod_0143",
+    "title": "Áo Thun Nam Viet Devils - Wayne Rooney",
+    "category": "Áo thun",
+    "price": 311000.0,
+    "original_price": 389000.0,
+    "discount_percent": 20,
+    "short_description": "Áo Thun Nam Viet Devils - Wayne Rooney",
+    "description": "Sản phẩm Áo Thun Nam Viet Devils - Wayne Rooney thuộc danh mục Áo thun với giá 311,000đ"
+  },
+  {
+    "id": "prod_0144",
+    "title": "Áo Thun Nam Viet Devils - Cristiano Ronaldo",
+    "category": "Áo thun",
+    "price": 329000.0,
+    "original_price": 389000.0,
+    "discount_percent": 15,
+    "short_description": "Áo Thun Nam Viet Devils - Cristiano Ronaldo",
+    "description": "Sản phẩm Áo Thun Nam Viet Devils - Cristiano Ronaldo thuộc danh mục Áo thun với giá 329,000đ"
+  },
+  {
+    "id": "prod_0145",
+    "title": "Áo Thun Nam Viet Devils - André Onana",
+    "category": "Áo thun",
+    "price": 330000.0,
+    "original_price": 389000.0,
+    "discount_percent": 15,
+    "short_description": "Áo Thun Nam Viet Devils - André Onana",
+    "description": "Sản phẩm Áo Thun Nam Viet Devils - André Onana thuộc danh mục Áo thun với giá 330,000đ"
+  },
+  {
+    "id": "prod_0146",
+    "title": "Áo Thun Nam Viet Devils - Marcus Rashford",
+    "category": "Áo thun",
+    "price": 329000.0,
+    "original_price": 389000.0,
+    "discount_percent": 15,
+    "short_description": "Áo Thun Nam Viet Devils - Marcus Rashford",
+    "description": "Sản phẩm Áo Thun Nam Viet Devils - Marcus Rashford thuộc danh mục Áo thun với giá 329,000đ"
+  },
+  {
+    "id": "prod_0147",
+    "title": "Áo Thun Nam Viet Devils - Rasmus Hojlund",
+    "category": "Áo thun",
+    "price": 329000.0,
+    "original_price": 389000.0,
+    "discount_percent": 15,
+    "short_description": "Áo Thun Nam Viet Devils - Rasmus Hojlund",
+    "description": "Sản phẩm Áo Thun Nam Viet Devils - Rasmus Hojlund thuộc danh mục Áo thun với giá 329,000đ"
+  },
+  {
+    "id": "prod_0148",
+    "title": "Áo Thun Nam Viet Devils - Bruno Fernandes",
+    "category": "Áo thun",
+    "price": 329000.0,
+    "original_price": 389000.0,
+    "discount_percent": 15,
+    "short_description": "Áo Thun Nam Viet Devils - Bruno Fernandes",
+    "description": "Sản phẩm Áo Thun Nam Viet Devils - Bruno Fernandes thuộc danh mục Áo thun với giá 329,000đ"
+  },
+  {
+    "id": "prod_0149",
+    "title": "Áo Polo Nam Ice Cooling",
+    "category": "Áo polo",
+    "price": 299000.0,
+    "original_price": 349000.0,
+    "discount_percent": 14,
+    "short_description": "Áo Polo Nam Ice Cooling",
+    "description": "Sản phẩm Áo Polo Nam Ice Cooling thuộc danh mục Áo polo với giá 299,000đ"
+  },
+  {
+    "id": "prod_0150",
+    "title": "Quần Jogger Nam Daily Wear",
+    "category": "Quần",
+    "price": 239000.0,
+    "original_price": 299000.0,
+    "discount_percent": 20,
+    "short_description": "Quần Jogger Nam Daily Wear",
+    "description": "Sản phẩm Quần Jogger Nam Daily Wear thuộc danh mục Quần với giá 239,000đ"
+  },
+  {
+    "id": "prod_0151",
+    "title": "Quần Jogger Nam Excool",
+    "category": "Quần",
+    "price": 299000.0,
+    "original_price": 379000.0,
+    "discount_percent": 21,
+    "short_description": "Quần Jogger Nam Excool",
+    "description": "Sản phẩm Quần Jogger Nam Excool thuộc danh mục Quần với giá 299,000đ"
+  },
+  {
+    "id": "prod_0152",
+    "title": "Áo dài tay Cotton Compact",
+    "category": "Khác",
+    "price": 199000.0,
+    "original_price": 269000.0,
+    "discount_percent": 26,
+    "short_description": "Áo dài tay Cotton Compact",
+    "description": "Sản phẩm Áo dài tay Cotton Compact thuộc danh mục Khác với giá 199,000đ"
+  },
+  {
+    "id": "prod_0153",
+    "title": "Áo Nỉ chui đầu Lifewear",
+    "category": "Áo khoác",
+    "price": 249000.0,
+    "original_price": 399000.0,
+    "discount_percent": 38,
+    "short_description": "Áo Nỉ chui đầu Lifewear",
+    "description": "Sản phẩm Áo Nỉ chui đầu Lifewear thuộc danh mục Áo khoác với giá 249,000đ"
+  },
+  {
+    "id": "prod_0154",
+    "title": "Quần Long Tights Mặc Trong",
+    "category": "Quần",
+    "price": 269000.0,
+    "original_price": 299000.0,
+    "discount_percent": 10,
+    "short_description": "Quần Long Tights Mặc Trong",
+    "description": "Sản phẩm Quần Long Tights Mặc Trong thuộc danh mục Quần với giá 269,000đ"
+  },
+  {
+    "id": "prod_0155",
+    "title": "Áo Thun Nam C&S Vui Trung thu",
+    "category": "Áo thun",
+    "price": 169000.0,
+    "original_price": 229000.0,
+    "discount_percent": 26,
+    "short_description": "Áo Thun Nam C&S Vui Trung thu",
+    "description": "Sản phẩm Áo Thun Nam C&S Vui Trung thu thuộc danh mục Áo thun với giá 169,000đ"
+  },
+  {
+    "id": "prod_0156",
+    "title": "Áo Thun Nam C&S Chubby Corgi",
+    "category": "Áo thun",
+    "price": 199000.0,
+    "original_price": 229000.0,
+    "discount_percent": 13,
+    "short_description": "Áo Thun Nam C&S Chubby Corgi",
+    "description": "Sản phẩm Áo Thun Nam C&S Chubby Corgi thuộc danh mục Áo thun với giá 199,000đ"
+  },
+  {
+    "id": "prod_0157",
+    "title": "Áo Thun Nam C&S Happy Cat",
+    "category": "Áo thun",
+    "price": 169000.0,
+    "original_price": 229000.0,
+    "discount_percent": 26,
+    "short_description": "Áo Thun Nam C&S Happy Cat",
+    "description": "Sản phẩm Áo Thun Nam C&S Happy Cat thuộc danh mục Áo thun với giá 169,000đ"
+  },
+  {
+    "id": "prod_0158",
+    "title": "Áo Thun Nam C&S Chubby Corgi Papa",
+    "category": "Áo thun",
+    "price": 199000.0,
+    "original_price": 229000.0,
+    "discount_percent": 13,
+    "short_description": "Áo Thun Nam C&S Chubby Corgi Papa",
+    "description": "Sản phẩm Áo Thun Nam C&S Chubby Corgi Papa thuộc danh mục Áo thun với giá 199,000đ"
+  },
+  {
+    "id": "prod_0159",
+    "title": "Áo Thun Nam C&S Cat Mama",
+    "category": "Áo thun",
+    "price": 199000.0,
+    "original_price": 229000.0,
+    "discount_percent": 13,
+    "short_description": "Áo Thun Nam C&S Cat Mama",
+    "description": "Sản phẩm Áo Thun Nam C&S Cat Mama thuộc danh mục Áo thun với giá 199,000đ"
+  },
+  {
+    "id": "prod_0160",
+    "title": "Áo thun Cotton Compact phiên bản Viet Devils - Deal With The Devil",
+    "category": "Áo thun",
+    "price": 329000.0,
+    "original_price": 389000.0,
+    "discount_percent": 15,
+    "short_description": "Áo thun Cotton Compact phiên bản Viet Devils - Deal With The Devil",
+    "description": "Sản phẩm Áo thun Cotton Compact phiên bản Viet Devils - Deal With The Devil thuộc danh mục Áo thun với giá 329,000đ"
+  },
+  {
+    "id": "prod_0161",
+    "title": "Áo Thun Nam Viet Devils - The Trafford Devil",
+    "category": "Áo thun",
+    "price": 329000.0,
+    "original_price": 389000.0,
+    "discount_percent": 15,
+    "short_description": "Áo Thun Nam Viet Devils - The Trafford Devil",
+    "description": "Sản phẩm Áo Thun Nam Viet Devils - The Trafford Devil thuộc danh mục Áo thun với giá 329,000đ"
+  },
+  {
+    "id": "prod_0162",
+    "title": "Áo Thun Nam Viet Devils - Viva Ronaldo!",
+    "category": "Áo thun",
+    "price": 329000.0,
+    "original_price": 389000.0,
+    "discount_percent": 15,
+    "short_description": "Áo Thun Nam Viet Devils - Viva Ronaldo!",
+    "description": "Sản phẩm Áo Thun Nam Viet Devils - Viva Ronaldo! thuộc danh mục Áo thun với giá 329,000đ"
+  },
+  {
+    "id": "prod_0163",
+    "title": "Áo Thun Nam Viet Devils - United Slash",
+    "category": "Áo thun",
+    "price": 329000.0,
+    "original_price": 389000.0,
+    "discount_percent": 15,
+    "short_description": "Áo Thun Nam Viet Devils - United Slash",
+    "description": "Sản phẩm Áo Thun Nam Viet Devils - United Slash thuộc danh mục Áo thun với giá 329,000đ"
+  },
+  {
+    "id": "prod_0164",
+    "title": "Áo Thun Nam Viet Devils - Metallic Blaze 2",
+    "category": "Áo thun",
+    "price": 263000.0,
+    "original_price": 329000.0,
+    "discount_percent": 20,
+    "short_description": "Áo Thun Nam Viet Devils - Metallic Blaze 2",
+    "description": "Sản phẩm Áo Thun Nam Viet Devils - Metallic Blaze 2 thuộc danh mục Áo thun với giá 263,000đ"
+  },
+  {
+    "id": "prod_0165",
+    "title": "Áo Thun Nam Viet Devils - Metallic Blaze",
+    "category": "Áo thun",
+    "price": 263000.0,
+    "original_price": 329000.0,
+    "discount_percent": 20,
+    "short_description": "Áo Thun Nam Viet Devils - Metallic Blaze",
+    "description": "Sản phẩm Áo Thun Nam Viet Devils - Metallic Blaze thuộc danh mục Áo thun với giá 263,000đ"
+  },
+  {
+    "id": "prod_0166",
+    "title": "Combo 3 Áo Thun Nam Cotton Compact",
+    "category": "Áo thun",
+    "price": 599000.0,
+    "original_price": 777000.0,
+    "discount_percent": 23,
+    "short_description": "Combo 3 Áo Thun Nam Cotton Compact",
+    "description": "Sản phẩm Combo 3 Áo Thun Nam Cotton Compact thuộc danh mục Áo thun với giá 599,000đ"
+  },
+  {
+    "id": "prod_0167",
+    "title": "Áo Thun Oversize 84RISING logo US",
+    "category": "Áo thun",
+    "price": 307000.0,
+    "original_price": 384000.0,
+    "discount_percent": 20,
+    "short_description": "Áo Thun Oversize 84RISING logo US",
+    "description": "Sản phẩm Áo Thun Oversize 84RISING logo US thuộc danh mục Áo thun với giá 307,000đ"
+  },
+  {
+    "id": "prod_0168",
+    "title": "Quần Shorts Nam chạy bộ Advanced",
+    "category": "Quần",
+    "price": 279000.0,
+    "original_price": 349000.0,
+    "discount_percent": 20,
+    "short_description": "Quần Shorts Nam chạy bộ Advanced",
+    "description": "Sản phẩm Quần Shorts Nam chạy bộ Advanced thuộc danh mục Quần với giá 279,000đ"
+  },
+  {
+    "id": "prod_0169",
+    "title": "Combo 3 Quần Shorts Nam Thể Thao Promax-S1",
+    "category": "Quần",
+    "price": 489000.0,
+    "original_price": 567000.0,
+    "discount_percent": 14,
+    "short_description": "Combo 3 Quần Shorts Nam Thể Thao Promax-S1",
+    "description": "Sản phẩm Combo 3 Quần Shorts Nam Thể Thao Promax-S1 thuộc danh mục Quần với giá 489,000đ"
+  },
+  {
+    "id": "prod_0170",
+    "title": "Combo 2 Áo Thun Care & Share",
+    "category": "Áo thun",
+    "price": 298000.0,
+    "original_price": 398000.0,
+    "discount_percent": 25,
+    "short_description": "Combo 2 Áo Thun Care & Share",
+    "description": "Sản phẩm Combo 2 Áo Thun Care & Share thuộc danh mục Áo thun với giá 298,000đ"
+  },
+  {
+    "id": "prod_0171",
+    "title": "Áo Thun oversize 84RISING trơn",
+    "category": "Áo thun",
+    "price": 307000.0,
+    "original_price": 384000.0,
+    "discount_percent": 20,
+    "short_description": "Áo Thun oversize 84RISING trơn",
+    "description": "Sản phẩm Áo Thun oversize 84RISING trơn thuộc danh mục Áo thun với giá 307,000đ"
+  },
+  {
+    "id": "prod_0172",
+    "title": "Áo Nỉ Oversize +84 LOGO",
+    "category": "Áo khoác",
+    "price": 387000.0,
+    "original_price": 484000.0,
+    "discount_percent": 20,
+    "short_description": "Áo Nỉ Oversize +84 LOGO",
+    "description": "Sản phẩm Áo Nỉ Oversize +84 LOGO thuộc danh mục Áo khoác với giá 387,000đ"
+  },
+  {
+    "id": "prod_0173",
+    "title": "Áo Thun Care & Share",
+    "category": "Áo thun",
+    "price": 194000.0,
+    "original_price": 259000.0,
+    "discount_percent": 25,
+    "short_description": "Áo Thun Care & Share",
+    "description": "Sản phẩm Áo Thun Care & Share thuộc danh mục Áo thun với giá 194,000đ"
+  },
+  {
+    "id": "prod_0174",
+    "title": "Áo Sơ mi dài tay Café-DriS",
+    "category": "Áo sơ mi",
+    "price": 399000.0,
+    "original_price": 499000.0,
+    "discount_percent": 20,
+    "short_description": "Áo Sơ mi dài tay Café-DriS",
+    "description": "Sản phẩm Áo Sơ mi dài tay Café-DriS thuộc danh mục Áo sơ mi với giá 399,000đ"
+  },
+  {
+    "id": "prod_0175",
+    "title": "Combo 2 quần Lót Nam Trunk Excool Clean Cut II",
+    "category": "Quần",
+    "price": 209000.0,
+    "original_price": 240000.0,
+    "discount_percent": 13,
+    "short_description": "Combo 2 quần Lót Nam Trunk Excool Clean Cut II",
+    "description": "Sản phẩm Combo 2 quần Lót Nam Trunk Excool Clean Cut II thuộc danh mục Quần với giá 209,000đ"
+  },
+  {
+    "id": "prod_0176",
+    "title": "Tshirt chạy bộ nữ Graphic Rainbow",
+    "category": "Áo thun",
+    "price": 239000.0,
+    "original_price": 239000.0,
+    "discount_percent": 0,
+    "short_description": "Tshirt chạy bộ nữ Graphic Rainbow",
+    "description": "Sản phẩm Tshirt chạy bộ nữ Graphic Rainbow thuộc danh mục Áo thun với giá 239,000đ"
+  },
+  {
+    "id": "prod_0177",
+    "title": "Shorts nữ 3.5inch Pickleball Sideline",
+    "category": "Quần",
+    "price": 349000.0,
+    "original_price": 429000.0,
+    "discount_percent": 19,
+    "short_description": "Shorts nữ 3.5inch Pickleball Sideline",
+    "description": "Sản phẩm Shorts nữ 3.5inch Pickleball Sideline thuộc danh mục Quần với giá 349,000đ"
+  },
+  {
+    "id": "prod_0178",
+    "title": "Tshirt chạy bộ nữ AirRush Gradient",
+    "category": "Áo thun",
+    "price": 199000.0,
+    "original_price": 199000.0,
+    "discount_percent": 0,
+    "short_description": "Tshirt chạy bộ nữ AirRush Gradient",
+    "description": "Sản phẩm Tshirt chạy bộ nữ AirRush Gradient thuộc danh mục Áo thun với giá 199,000đ"
+  },
+  {
+    "id": "prod_0179",
+    "title": "Váy xếp li Pickleball Driveshot",
+    "category": "Váy",
+    "price": 549000.0,
+    "original_price": 549000.0,
+    "discount_percent": 0,
+    "short_description": "Váy xếp li Pickleball Driveshot",
+    "description": "Sản phẩm Váy xếp li Pickleball Driveshot thuộc danh mục Váy với giá 549,000đ"
+  },
+  {
+    "id": "prod_0180",
+    "title": "Váy Polo Pickleball Dink Shot",
+    "category": "Áo polo",
+    "price": 499000.0,
+    "original_price": 599000.0,
+    "discount_percent": 17,
+    "short_description": "Váy Polo Pickleball Dink Shot",
+    "description": "Sản phẩm Váy Polo Pickleball Dink Shot thuộc danh mục Áo polo với giá 499,000đ"
+  },
+  {
+    "id": "prod_0181",
+    "title": "Váy Pickleball Baseline",
+    "category": "Váy",
+    "price": 479000.0,
+    "original_price": 479000.0,
+    "discount_percent": 0,
+    "short_description": "Váy Pickleball Baseline",
+    "description": "Sản phẩm Váy Pickleball Baseline thuộc danh mục Váy với giá 479,000đ"
+  },
+  {
+    "id": "prod_0182",
+    "title": "Váy thun knit Pickleball Smash Shot",
+    "category": "Váy",
+    "price": 479000.0,
+    "original_price": 479000.0,
+    "discount_percent": 0,
+    "short_description": "Váy thun knit Pickleball Smash Shot",
+    "description": "Sản phẩm Váy thun knit Pickleball Smash Shot thuộc danh mục Váy với giá 479,000đ"
+  },
+  {
+    "id": "prod_0183",
+    "title": "Áo Tanktop nữ Pickleball Smash Shot",
+    "category": "Khác",
+    "price": 339000.0,
+    "original_price": 379000.0,
+    "discount_percent": 11,
+    "short_description": "Áo Tanktop nữ Pickleball Smash Shot",
+    "description": "Sản phẩm Áo Tanktop nữ Pickleball Smash Shot thuộc danh mục Khác với giá 339,000đ"
+  },
+  {
+    "id": "prod_0184",
+    "title": "Áo Polo nữ Pickleball Baseline",
+    "category": "Áo polo",
+    "price": 499000.0,
+    "original_price": 499000.0,
+    "discount_percent": 0,
+    "short_description": "Áo Polo nữ Pickleball Baseline",
+    "description": "Sản phẩm Áo Polo nữ Pickleball Baseline thuộc danh mục Áo polo với giá 499,000đ"
+  },
+  {
+    "id": "prod_0185",
+    "title": "Áo Singlet nữ chạy bộ Core Tank",
+    "category": "Khác",
+    "price": 189000.0,
+    "original_price": 189000.0,
+    "discount_percent": 0,
+    "short_description": "Áo Singlet nữ chạy bộ Core Tank",
+    "description": "Sản phẩm Áo Singlet nữ chạy bộ Core Tank thuộc danh mục Khác với giá 189,000đ"
+  },
+  {
+    "id": "prod_0186",
+    "title": "Áo thun nữ chạy bộ Race Tee",
+    "category": "Áo thun",
+    "price": 299000.0,
+    "original_price": 299000.0,
+    "discount_percent": 0,
+    "short_description": "Áo thun nữ chạy bộ Race Tee",
+    "description": "Sản phẩm Áo thun nữ chạy bộ Race Tee thuộc danh mục Áo thun với giá 299,000đ"
+  },
+  {
+    "id": "prod_0187",
+    "title": "Áo Crop top nữ Pickleball Dink Shot",
+    "category": "Khác",
+    "price": 279000.0,
+    "original_price": 279000.0,
+    "discount_percent": 0,
+    "short_description": "Áo Crop top nữ Pickleball Dink Shot",
+    "description": "Sản phẩm Áo Crop top nữ Pickleball Dink Shot thuộc danh mục Khác với giá 279,000đ"
+  },
+  {
+    "id": "prod_0188",
+    "title": "Áo Tank Slimfit",
+    "category": "Khác",
+    "price": 299000.0,
+    "original_price": 299000.0,
+    "discount_percent": 0,
+    "short_description": "Áo Tank Slimfit",
+    "description": "Sản phẩm Áo Tank Slimfit thuộc danh mục Khác với giá 299,000đ"
+  },
+  {
+    "id": "prod_0189",
+    "title": "Áo Cropped Tee Slimfit",
+    "category": "Khác",
+    "price": 299000.0,
+    "original_price": 299000.0,
+    "discount_percent": 0,
+    "short_description": "Áo Cropped Tee Slimfit",
+    "description": "Sản phẩm Áo Cropped Tee Slimfit thuộc danh mục Khác với giá 299,000đ"
+  },
+  {
+    "id": "prod_0190",
+    "title": "Áo Tshirt Regular fit",
+    "category": "Áo thun",
+    "price": 299000.0,
+    "original_price": 299000.0,
+    "discount_percent": 0,
+    "short_description": "Áo Tshirt Regular fit",
+    "description": "Sản phẩm Áo Tshirt Regular fit thuộc danh mục Áo thun với giá 299,000đ"
+  },
+  {
+    "id": "prod_0191",
+    "title": "Quần Shorts thể thao nữ Ribbed",
+    "category": "Quần",
+    "price": 349000.0,
+    "original_price": 349000.0,
+    "discount_percent": 0,
+    "short_description": "Quần Shorts thể thao nữ Ribbed",
+    "description": "Sản phẩm Quần Shorts thể thao nữ Ribbed thuộc danh mục Quần với giá 349,000đ"
+  },
+  {
+    "id": "prod_0192",
+    "title": "Set áo Singlet thể thao nữ Slim Tee + Bra CoolFlex",
+    "category": "Áo bra",
+    "price": 489000.0,
+    "original_price": 598000.0,
+    "discount_percent": 18,
+    "short_description": "Set áo Singlet thể thao nữ Slim Tee + Bra CoolFlex",
+    "description": "Sản phẩm Set áo Singlet thể thao nữ Slim Tee + Bra CoolFlex thuộc danh mục Áo bra với giá 489,000đ"
+  },
+  {
+    "id": "prod_0193",
+    "title": "Băng đeo cổ tay thể thao",
+    "category": "Khác",
+    "price": 59000.0,
+    "original_price": 59000.0,
+    "discount_percent": 0,
+    "short_description": "Băng đeo cổ tay thể thao",
+    "description": "Sản phẩm Băng đeo cổ tay thể thao thuộc danh mục Khác với giá 59,000đ"
+  },
+  {
+    "id": "prod_0194",
+    "title": "Tất thể thao nữ cổ trung",
+    "category": "Tất",
+    "price": 49000.0,
+    "original_price": 49000.0,
+    "discount_percent": 0,
+    "short_description": "Tất thể thao nữ cổ trung",
+    "description": "Sản phẩm Tất thể thao nữ cổ trung thuộc danh mục Tất với giá 49,000đ"
+  },
+  {
+    "id": "prod_0195",
+    "title": "Áo Crop top Tank nữ Chạy bộ khoá zip",
+    "category": "Khác",
+    "price": 539000.0,
+    "original_price": 599000.0,
+    "discount_percent": 10,
+    "short_description": "Áo Crop top Tank nữ Chạy bộ khoá zip",
+    "description": "Sản phẩm Áo Crop top Tank nữ Chạy bộ khoá zip thuộc danh mục Khác với giá 539,000đ"
+  },
+  {
+    "id": "prod_0196",
+    "title": "Áo Drop Arm Chạy bộ nữ Mesh Tank",
+    "category": "Khác",
+    "price": 199000.0,
+    "original_price": 199000.0,
+    "discount_percent": 0,
+    "short_description": "Áo Drop Arm Chạy bộ nữ Mesh Tank",
+    "description": "Sản phẩm Áo Drop Arm Chạy bộ nữ Mesh Tank thuộc danh mục Khác với giá 199,000đ"
+  },
+  {
+    "id": "prod_0197",
+    "title": "Áo Bra chạy bộ Medium Support",
+    "category": "Áo bra",
+    "price": 449000.0,
+    "original_price": 499000.0,
+    "discount_percent": 10,
+    "short_description": "Áo Bra chạy bộ Medium Support",
+    "description": "Sản phẩm Áo Bra chạy bộ Medium Support thuộc danh mục Áo bra với giá 449,000đ"
+  },
+  {
+    "id": "prod_0198",
+    "title": "Áo Bra chạy bộ phối lưới Medium Support",
+    "category": "Áo bra",
+    "price": 379000.0,
+    "original_price": 499000.0,
+    "discount_percent": 24,
+    "short_description": "Áo Bra chạy bộ phối lưới Medium Support",
+    "description": "Sản phẩm Áo Bra chạy bộ phối lưới Medium Support thuộc danh mục Áo bra với giá 379,000đ"
+  },
+  {
+    "id": "prod_0199",
+    "title": "Áo Tank Bra thể thao nữ Aspire Ribbed",
+    "category": "Áo bra",
+    "price": 299000.0,
+    "original_price": 399000.0,
+    "discount_percent": 25,
+    "short_description": "Áo Tank Bra thể thao nữ Aspire Ribbed",
+    "description": "Sản phẩm Áo Tank Bra thể thao nữ Aspire Ribbed thuộc danh mục Áo bra với giá 299,000đ"
+  },
+  {
+    "id": "prod_0200",
+    "title": "Legging Coolflex Everyday Active",
+    "category": "Legging",
+    "price": 449000.0,
+    "original_price": 499000.0,
+    "discount_percent": 10,
+    "short_description": "Legging Coolflex Everyday Active",
+    "description": "Sản phẩm Legging Coolflex Everyday Active thuộc danh mục Legging với giá 449,000đ"
+  },
+  {
+    "id": "prod_0201",
+    "title": "Tất cổ trung chạy bộ nữ",
+    "category": "Tất",
+    "price": 79000.0,
+    "original_price": 79000.0,
+    "discount_percent": 0,
+    "short_description": "Tất cổ trung chạy bộ nữ",
+    "description": "Sản phẩm Tất cổ trung chạy bộ nữ thuộc danh mục Tất với giá 79,000đ"
+  },
+  {
+    "id": "prod_0202",
+    "title": "Tất cổ dài chạy bộ nữ",
+    "category": "Tất",
+    "price": 89000.0,
+    "original_price": 89000.0,
+    "discount_percent": 0,
+    "short_description": "Tất cổ dài chạy bộ nữ",
+    "description": "Sản phẩm Tất cổ dài chạy bộ nữ thuộc danh mục Tất với giá 89,000đ"
+  },
+  {
+    "id": "prod_0203",
+    "title": "Tất cổ ngắn chạy bộ nữ",
+    "category": "Tất",
+    "price": 79000.0,
+    "original_price": 79000.0,
+    "discount_percent": 0,
+    "short_description": "Tất cổ ngắn chạy bộ nữ",
+    "description": "Sản phẩm Tất cổ ngắn chạy bộ nữ thuộc danh mục Tất với giá 79,000đ"
+  },
+  {
+    "id": "prod_0204",
+    "title": "Áo Tee Ribbed",
+    "category": "Khác",
+    "price": 269000.0,
+    "original_price": 299000.0,
+    "discount_percent": 10,
+    "short_description": "Áo Tee Ribbed",
+    "description": "Sản phẩm Áo Tee Ribbed thuộc danh mục Khác với giá 269,000đ"
+  },
+  {
+    "id": "prod_0205",
+    "title": "Quần Biker Shorts nữ 8 Inch CoolFlex Light Support",
+    "category": "Quần",
+    "price": 299000.0,
+    "original_price": 299000.0,
+    "discount_percent": 0,
+    "short_description": "Quần Biker Shorts nữ 8 Inch CoolFlex Light Support",
+    "description": "Sản phẩm Quần Biker Shorts nữ 8 Inch CoolFlex Light Support thuộc danh mục Quần với giá 299,000đ"
+  },
+  {
+    "id": "prod_0206",
+    "title": "Quần Legging 7/8 CoolFlex Light Support",
+    "category": "Quần",
+    "price": 349000.0,
+    "original_price": 459000.0,
+    "discount_percent": 24,
+    "short_description": "Quần Legging 7/8 CoolFlex Light Support",
+    "description": "Sản phẩm Quần Legging 7/8 CoolFlex Light Support thuộc danh mục Quần với giá 349,000đ"
+  },
+  {
+    "id": "prod_0207",
+    "title": "Quần Legging Ribbed",
+    "category": "Quần",
+    "price": 349000.0,
+    "original_price": 399000.0,
+    "discount_percent": 13,
+    "short_description": "Quần Legging Ribbed",
+    "description": "Sản phẩm Quần Legging Ribbed thuộc danh mục Quần với giá 349,000đ"
+  },
+  {
+    "id": "prod_0208",
+    "title": "Áo Bra V-Neck CoolSoft Light Support",
+    "category": "Áo bra",
+    "price": 349000.0,
+    "original_price": 399000.0,
+    "discount_percent": 13,
+    "short_description": "Áo Bra V-Neck CoolSoft Light Support",
+    "description": "Sản phẩm Áo Bra V-Neck CoolSoft Light Support thuộc danh mục Áo bra với giá 349,000đ"
+  },
+  {
+    "id": "prod_0209",
+    "title": "Quần Legging Full Length Light Support",
+    "category": "Quần",
+    "price": 399000.0,
+    "original_price": 549000.0,
+    "discount_percent": 27,
+    "short_description": "Quần Legging Full Length Light Support",
+    "description": "Sản phẩm Quần Legging Full Length Light Support thuộc danh mục Quần với giá 399,000đ"
+  },
+  {
+    "id": "prod_0210",
+    "title": "Áo Bra Ribbed",
+    "category": "Áo bra",
+    "price": 199000.0,
+    "original_price": 299000.0,
+    "discount_percent": 33,
+    "short_description": "Áo Bra Ribbed",
+    "description": "Sản phẩm Áo Bra Ribbed thuộc danh mục Áo bra với giá 199,000đ"
+  },
+  {
+    "id": "prod_0211",
+    "title": "Áo thun nữ chạy bộ Core Tee Slim",
+    "category": "Áo thun",
+    "price": 199000.0,
+    "original_price": 199000.0,
+    "discount_percent": 0,
+    "short_description": "Áo thun nữ chạy bộ Core Tee Slim",
+    "description": "Sản phẩm Áo thun nữ chạy bộ Core Tee Slim thuộc danh mục Áo thun với giá 199,000đ"
+  },
+  {
+    "id": "prod_0212",
+    "title": "Áo Bra Cross CoolFlex Light Support",
+    "category": "Áo bra",
+    "price": 299000.0,
+    "original_price": 399000.0,
+    "discount_percent": 25,
+    "short_description": "Áo Bra Cross CoolFlex Light Support",
+    "description": "Sản phẩm Áo Bra Cross CoolFlex Light Support thuộc danh mục Áo bra với giá 299,000đ"
+  },
+  {
+    "id": "prod_0213",
+    "title": "Băng đô Headband",
+    "category": "Khác",
+    "price": 79000.0,
+    "original_price": 79000.0,
+    "discount_percent": 0,
+    "short_description": "Băng đô Headband",
+    "description": "Sản phẩm Băng đô Headband thuộc danh mục Khác với giá 79,000đ"
+  },
+  {
+    "id": "prod_0214",
+    "title": "Pack 4 Dây Buộc tóc Scrunchies",
+    "category": "Khác",
+    "price": 99000.0,
+    "original_price": 99000.0,
+    "discount_percent": 0,
+    "short_description": "Pack 4 Dây Buộc tóc Scrunchies",
+    "description": "Sản phẩm Pack 4 Dây Buộc tóc Scrunchies thuộc danh mục Khác với giá 99,000đ"
+  },
+  {
+    "id": "prod_0215",
+    "title": "Áo Bra T-Back CoolFlex Light Support",
+    "category": "Áo bra",
+    "price": 299000.0,
+    "original_price": 399000.0,
+    "discount_percent": 25,
+    "short_description": "Áo Bra T-Back CoolFlex Light Support",
+    "description": "Sản phẩm Áo Bra T-Back CoolFlex Light Support thuộc danh mục Áo bra với giá 299,000đ"
+  },
+  {
+    "id": "prod_0216",
+    "title": "Áo Bra Coolflex Everyday Active",
+    "category": "Áo bra",
+    "price": 349000.0,
+    "original_price": 399000.0,
+    "discount_percent": 13,
+    "short_description": "Áo Bra Coolflex Everyday Active",
+    "description": "Sản phẩm Áo Bra Coolflex Everyday Active thuộc danh mục Áo bra với giá 349,000đ"
+  },
+  {
+    "id": "prod_0217",
+    "title": "Quần Shorts thể thao nữ Woven Short",
+    "category": "Quần",
+    "price": 279000.0,
+    "original_price": 279000.0,
+    "discount_percent": 0,
+    "short_description": "Quần Shorts thể thao nữ Woven Short",
+    "description": "Sản phẩm Quần Shorts thể thao nữ Woven Short thuộc danh mục Quần với giá 279,000đ"
+  },
+  {
+    "id": "prod_0218",
+    "title": "Áo thể thao nữ co giãn Slim Tee",
+    "category": "Khác",
+    "price": 199000.0,
+    "original_price": 199000.0,
+    "discount_percent": 0,
+    "short_description": "Áo thể thao nữ co giãn Slim Tee",
+    "description": "Sản phẩm Áo thể thao nữ co giãn Slim Tee thuộc danh mục Khác với giá 199,000đ"
+  },
+  {
+    "id": "prod_0219",
+    "title": "Áo thun thể thao nữ Comfort Tee",
+    "category": "Áo thun",
+    "price": 249000.0,
+    "original_price": 249000.0,
+    "discount_percent": 0,
+    "short_description": "Áo thun thể thao nữ Comfort Tee",
+    "description": "Sản phẩm Áo thun thể thao nữ Comfort Tee thuộc danh mục Áo thun với giá 249,000đ"
+  },
+  {
+    "id": "prod_0220",
+    "title": "Áo thể thao nữ Lightweight Tee",
+    "category": "Khác",
+    "price": 269000.0,
+    "original_price": 299000.0,
+    "discount_percent": 10,
+    "short_description": "Áo thể thao nữ Lightweight Tee",
+    "description": "Sản phẩm Áo thể thao nữ Lightweight Tee thuộc danh mục Khác với giá 269,000đ"
+  },
+  {
+    "id": "prod_0221",
+    "title": "Áo Singlet thể thao nữ co giãn Slim Tee",
+    "category": "Khác",
+    "price": 199000.0,
+    "original_price": 199000.0,
+    "discount_percent": 0,
+    "short_description": "Áo Singlet thể thao nữ co giãn Slim Tee",
+    "description": "Sản phẩm Áo Singlet thể thao nữ co giãn Slim Tee thuộc danh mục Khác với giá 199,000đ"
+  },
+  {
+    "id": "prod_0222",
+    "title": "Quần Shorts nữ chạy bộ 2 lớp Race Shorts",
+    "category": "Quần",
+    "price": 449000.0,
+    "original_price": 499000.0,
+    "discount_percent": 10,
+    "short_description": "Quần Shorts nữ chạy bộ 2 lớp Race Shorts",
+    "description": "Sản phẩm Quần Shorts nữ chạy bộ 2 lớp Race Shorts thuộc danh mục Quần với giá 449,000đ"
+  },
+  {
+    "id": "prod_0223",
+    "title": "Biker Shorts nữ chạy bộ 8inch",
+    "category": "Quần",
+    "price": 449000.0,
+    "original_price": 499000.0,
+    "discount_percent": 10,
+    "short_description": "Biker Shorts nữ chạy bộ 8inch",
+    "description": "Sản phẩm Biker Shorts nữ chạy bộ 8inch thuộc danh mục Quần với giá 449,000đ"
+  },
+  {
+    "id": "prod_0224",
+    "title": "Quần Shorts thể thao nữ French Terry 3.5inch",
+    "category": "Quần",
+    "price": 399000.0,
+    "original_price": 399000.0,
+    "discount_percent": 0,
+    "short_description": "Quần Shorts thể thao nữ French Terry 3.5inch",
+    "description": "Sản phẩm Quần Shorts thể thao nữ French Terry 3.5inch thuộc danh mục Quần với giá 399,000đ"
+  },
+  {
+    "id": "prod_0225",
+    "title": "Áo thể thao nữ Essential Cropped Tee",
+    "category": "Khác",
+    "price": 179000.0,
+    "original_price": 199000.0,
+    "discount_percent": 10,
+    "short_description": "Áo thể thao nữ Essential Cropped Tee",
+    "description": "Sản phẩm Áo thể thao nữ Essential Cropped Tee thuộc danh mục Khác với giá 179,000đ"
+  },
+  {
+    "id": "prod_0226",
+    "title": "Áo thun nữ chạy bộ Core Tee",
+    "category": "Áo thun",
+    "price": 199000.0,
+    "original_price": 199000.0,
+    "discount_percent": 0,
+    "short_description": "Áo thun nữ chạy bộ Core Tee",
+    "description": "Sản phẩm Áo thun nữ chạy bộ Core Tee thuộc danh mục Áo thun với giá 199,000đ"
+  },
+  {
+    "id": "prod_0227",
+    "title": "Quần shorts nữ chạy bộ 2 lớp 3.5 inch Core Shorts",
+    "category": "Quần",
+    "price": 349000.0,
+    "original_price": 399000.0,
+    "discount_percent": 13,
+    "short_description": "Quần shorts nữ chạy bộ 2 lớp 3.5 inch Core Shorts",
+    "description": "Sản phẩm Quần shorts nữ chạy bộ 2 lớp 3.5 inch Core Shorts thuộc danh mục Quần với giá 349,000đ"
+  },
+  {
+    "id": "prod_0228",
+    "title": "Quần Legging Full Length chạy bộ Medium Support",
+    "category": "Quần",
+    "price": 449000.0,
+    "original_price": 599000.0,
+    "discount_percent": 25,
+    "short_description": "Quần Legging Full Length chạy bộ Medium Support",
+    "description": "Sản phẩm Quần Legging Full Length chạy bộ Medium Support thuộc danh mục Quần với giá 449,000đ"
+  },
+  {
+    "id": "prod_0229",
+    "title": "Tất Yoga & Pilates Grib Socks",
+    "category": "Tất",
+    "price": 59000.0,
+    "original_price": 59000.0,
+    "discount_percent": 0,
+    "short_description": "Tất Yoga & Pilates Grib Socks",
+    "description": "Sản phẩm Tất Yoga & Pilates Grib Socks thuộc danh mục Tất với giá 59,000đ"
+  },
+  {
+    "id": "prod_0230",
+    "title": "Tất Yoga & Pilates chống trượt Ruffles Socks",
+    "category": "Tất",
+    "price": 59000.0,
+    "original_price": 59000.0,
+    "discount_percent": 0,
+    "short_description": "Tất Yoga & Pilates chống trượt Ruffles Socks",
+    "description": "Sản phẩm Tất Yoga & Pilates chống trượt Ruffles Socks thuộc danh mục Tất với giá 59,000đ"
+  },
+  {
+    "id": "prod_0231",
+    "title": "Tất Yoga & Pilates chống trượt cổ trung",
+    "category": "Tất",
+    "price": 59000.0,
+    "original_price": 59000.0,
+    "discount_percent": 0,
+    "short_description": "Tất Yoga & Pilates chống trượt cổ trung",
+    "description": "Sản phẩm Tất Yoga & Pilates chống trượt cổ trung thuộc danh mục Tất với giá 59,000đ"
+  },
+  {
+    "id": "prod_0232",
+    "title": "Áo Singlet nữ chạy bộ Race Tank",
+    "category": "Khác",
+    "price": 299000.0,
+    "original_price": 299000.0,
+    "discount_percent": 0,
+    "short_description": "Áo Singlet nữ chạy bộ Race Tank",
+    "description": "Sản phẩm Áo Singlet nữ chạy bộ Race Tank thuộc danh mục Khác với giá 299,000đ"
+  },
+  {
+    "id": "prod_0233",
+    "title": "Áo thể thao nữ Lightweight Cropped Tee",
+    "category": "Khác",
+    "price": 299000.0,
+    "original_price": 299000.0,
+    "discount_percent": 0,
+    "short_description": "Áo thể thao nữ Lightweight Cropped Tee",
+    "description": "Sản phẩm Áo thể thao nữ Lightweight Cropped Tee thuộc danh mục Khác với giá 299,000đ"
+  }
+]
